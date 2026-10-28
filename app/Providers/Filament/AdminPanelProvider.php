@@ -70,11 +70,13 @@ class AdminPanelProvider extends PanelProvider
                 ->icon('heroicon-o-language')
                 ->url(fn () => route('filament.admin.locale', $code))
                 ->hidden(fn () => app()->getLocale() === $code))->values()->all())
-            ->routes(fn () => Route::get('locale/{locale}', function (Request $request, string $locale) {
-                $request->session()->put('admin_locale', $locale);
+            ->routes(function (): void {
+                Route::get('locale/{locale}', function (Request $request, string $locale) {
+                    $request->session()->put('admin_locale', $locale);
 
-                return back();
-            })->whereIn('locale', array_keys(SetAdminLocale::LOCALES))->name('locale'))
+                    return back();
+                })->whereIn('locale', array_keys(SetAdminLocale::LOCALES))->name('locale');
+            })
             ->sidebarCollapsibleOnDesktop()
             ->discoverResources(in: app_path('Filament/Resources'), for: 'App\Filament\Resources')
             ->discoverPages(in: app_path('Filament/Pages'), for: 'App\Filament\Pages')
