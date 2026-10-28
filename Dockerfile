@@ -11,7 +11,8 @@ RUN npm ci && npm run build
 
 FROM php:8.4-cli
 ADD --chmod=0755 https://github.com/mlocati/docker-php-extension-installer/releases/latest/download/install-php-extensions /usr/local/bin/
-RUN install-php-extensions intl gd zip exif pdo_sqlite
+RUN install-php-extensions intl gd zip exif pdo_sqlite \
+    && echo 'memory_limit=512M' > "$PHP_INI_DIR/conf.d/memory.ini"
 WORKDIR /app
 COPY . .
 COPY --from=vendor /app/vendor ./vendor
