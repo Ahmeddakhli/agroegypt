@@ -1,0 +1,410 @@
+{
+ "id": 1658,
+ "slug": "lemon",
+ "url": "https://agroegypt.com/our-products/citrus/lemon/",
+ "parent": 1647,
+ "menu_order": 0,
+ "wp_title": "Lemons",
+ "head": {
+  "title": "Lemons - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Lemons",
+ "breadcrumbs": [
+  "Home",
+  "Our Products",
+  "Citrus",
+  "Lemons"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2020/11/lemonse.jpg"
+ ],
+ "sections": [
+  {
+   "id": "a3269fa",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-a3269fa",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "37ed788",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-37ed788",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "4a42804",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-4a42804",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "15cdfe57",
+     "text": "L emons Are among the world’s most popular citrus fruits. They grow on lemon trees and are a hybrid of the original citron and lime.",
+     "html": "<h3>L<span><b>emons</b><br/></span></h3><h3><span style=\"font-size: 18px; font-weight: 400;\"> <span>Are among the world’s most popular citrus fruits. They grow on lemon<br/>trees and are a hybrid of the original citron and lime.</span><span><br/></span></span></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "1e3921ad",
+     "text": "Packaging",
+     "html": "<h3>Packaging</h3>"
+    },
+    {
+     "type": "image",
+     "id": "4dd596cf",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-01.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "1d02145b",
+     "text": "Telescpic Carton (Net Weight 15 Kgs)",
+     "html": "<p style=\"text-align: center;\"><b>Telescpic Carton</b><strong><span><b>(Net Weight 15 Kgs)</b><br/></span></strong></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "6c800f8e",
+     "text": "No. of Pallets/Container",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Pallets/Container</span></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "5a88de26",
+     "text": "No. of Cartons/Pallet",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Cartons/Pallet</span></p>"
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "196d0361",
+     "text": "20",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02.png",
+       "alt": "20",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "3a20dc5b",
+     "text": "80",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04.png",
+       "alt": "80",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "4f446be3",
+     "text": "Seasonality",
+     "html": "<h3>Seasonality</h3>"
+    },
+    {
+     "type": "image",
+     "id": "f0101ec",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/lemon.jpg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6ac1ee3b",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-6ac1ee3b",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "23cb2357",
+     "text": "Eureka",
+     "html": "<h3><font color=\"#eaa84e\"><span style=\"font-size: 24px;\">Eureka</span></font><br/></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "39a8c6cc",
+     "text": "DEC",
+     "html": "<p style=\"text-align: center;\">DEC</p>"
+    },
+    {
+     "type": "image",
+     "id": "67ef8f0e",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "7a66d70f",
+     "text": "JAN",
+     "html": "<p style=\"text-align: center;\">JAN</p>"
+    },
+    {
+     "type": "image",
+     "id": "77ca57c9",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "568ba86b",
+     "text": "FEB",
+     "html": "<p style=\"text-align: center;\">FEB</p>"
+    },
+    {
+     "type": "image",
+     "id": "3ab23388",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "5ba1cc3",
+     "text": "MAR",
+     "html": "<p style=\"text-align: center;\">MAR</p>"
+    },
+    {
+     "type": "image",
+     "id": "6238eab",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "23bf7c02",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-23bf7c02",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "53202572",
+     "text": "Counts",
+     "html": "<h3><strong>Counts<br/></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "ed988e6",
+     "text": "72",
+     "html": "<p style=\"text-align: center; color: #182719;\">72</p>"
+    },
+    {
+     "type": "icon",
+     "id": "4651ab3",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "17916036",
+     "text": "80",
+     "html": "<p style=\"text-align: center; color: #182719;\">80</p>"
+    },
+    {
+     "type": "icon",
+     "id": "5cd376b",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "69ad1b2",
+     "text": "88",
+     "html": "<p style=\"text-align: center; color: #182719;\">88</p>"
+    },
+    {
+     "type": "icon",
+     "id": "4c3fbf80",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "2fa04f6b",
+     "text": "100",
+     "html": "<p style=\"text-align: center; color: #182719;\">100</p>"
+    },
+    {
+     "type": "icon",
+     "id": "737017e3",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "7d149e7a",
+     "text": "113",
+     "html": "<p style=\"text-align: center; color: #182719;\">113</p>"
+    },
+    {
+     "type": "icon",
+     "id": "27b26a1a",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "30151128",
+     "text": "125",
+     "html": "<p style=\"text-align: center; color: #182719;\">125</p>"
+    },
+    {
+     "type": "icon",
+     "id": "7333e363",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "4743163c",
+     "text": "138",
+     "html": "<p style=\"text-align: center; color: #182719;\">138</p>"
+    },
+    {
+     "type": "icon",
+     "id": "6c0990ec",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "60bbb2b6",
+     "text": "150",
+     "html": "<p style=\"text-align: center; color: #182719;\">150</p>"
+    },
+    {
+     "type": "icon",
+     "id": "139e563d",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "4904bced",
+     "text": "162",
+     "html": "<p style=\"text-align: center; color: #182719;\">162</p>"
+    },
+    {
+     "type": "icon",
+     "id": "60031d29",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "2dcaeb19",
+     "text": "189",
+     "html": "<p style=\"text-align: center; color: #182719;\">189</p>"
+    },
+    {
+     "type": "icon",
+     "id": "5a7c58af",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "f923656",
+     "text": "216",
+     "html": "<p style=\"text-align: center; color: #182719;\">216</p>"
+    },
+    {
+     "type": "icon",
+     "id": "636aea8",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": "33c857d6",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-33c857d6",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  }
+ ]
+}

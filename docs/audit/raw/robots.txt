@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Allow: /
+Disallow: /wp-admin/
+
+Sitemap: https://agroegypt.com/sitemap.xml
+

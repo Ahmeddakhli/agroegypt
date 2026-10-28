@@ -1,0 +1,192 @@
+{
+ "id": 1706,
+ "slug": "grapes",
+ "url": "https://agroegypt.com/our-products/grapes/",
+ "parent": 1637,
+ "menu_order": 0,
+ "wp_title": "Grapes",
+ "head": {
+  "title": "Grapes - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Grapes",
+ "breadcrumbs": [
+  "Home",
+  "Our Products",
+  "Grapes"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/01/gh.jpg"
+ ],
+ "sections": [
+  {
+   "id": "a3269fa",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-a3269fa",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "aa20dbc",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-aa20dbc",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "image",
+     "id": "14ba520",
+     "text": "Sugraone",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/grapes-sugraone-1.jpg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/grapes/sugraone",
+       "text": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "bd550b8",
+     "text": "Flame",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/flam.jpg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/grapes/flame",
+       "text": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "5c55b4a",
+     "text": "Red Globe",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/red.jpg",
+       "alt": "Onion Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/grapes/red-globe",
+       "text": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "65e0e4d",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-65e0e4d",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "cb4790e",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-cb4790e",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "image",
+     "id": "baa206f",
+     "text": "Black Grapes",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/black-.jpg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/grapes/black-grapes",
+       "text": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "f7c7c7b",
+     "text": "Crimson",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/crimson.jpg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/grapes/crimson",
+       "text": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a646144",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-a646144",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  }
+ ]
+}

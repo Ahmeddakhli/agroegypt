@@ -1,0 +1,478 @@
+{
+ "id": 2483,
+ "slug": "grapefruit-2",
+ "url": "https://agroegypt.com/our-products/citrus/grapefruit-2/",
+ "parent": 1647,
+ "menu_order": 0,
+ "wp_title": "Grapefruit",
+ "head": {
+  "title": "Grapefruit - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "Grapefruit Is a tropical large citrus fruit related to the orange, lemon, and pomelo families with a flavor that can range from bittersweet to sour.",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Grapefruit",
+ "breadcrumbs": [
+  "Home",
+  "Our Products",
+  "Citrus",
+  "Grapefruit"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/02/GPS.png"
+ ],
+ "sections": [
+  {
+   "id": "a3269fa",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-a3269fa",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "37ed788",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-37ed788",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "9553216",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-9553216",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "10e7dbe2",
+     "text": "Grapefruit Is a tropical large citrus fruit related to the orange, lemon, and pomelo families with a flavor that can range from bittersweet to sour. One of the best varieties of grapefruit is Star Ruby, which is known for its darkest red inside pigmentation among all the grapefruit varieties.",
+     "html": "<h3><span><b>Grapefruit</b><br/></span></h3><h3><span style=\"font-size: 18px; font-weight: 400;\"><span> Is a tropical large citrus fruit related to the orange, lemon, and pomelo families with a flavor that can range from bittersweet to sour. One of the best varieties of grapefruit is Star Ruby, which is known for its darkest red inside pigmentation among all the grapefruit varieties.<br/></span></span></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "73afb035",
+     "text": "Variety",
+     "html": "<h3>Variety</h3>"
+    },
+    {
+     "type": "icon-list",
+     "id": "41711497",
+     "text": "Star Ruby Ruby Red"
+    },
+    {
+     "type": "text-editor",
+     "id": "393ed4a9",
+     "text": "Packaging",
+     "html": "<h3>Packaging</h3>"
+    },
+    {
+     "type": "image",
+     "id": "5e4cc05f",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "35ba9f42",
+     "text": "Open Top Carton (Net Weight 15 Kgs)",
+     "html": "<p style=\"text-align: center;\"><strong> <span><b>Open Top Carton (Net Weight 15 Kgs)</b><br/></span></strong></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "7daf5b49",
+     "text": "No. of Pallets/Container",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Pallets/Container</span></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "1f492b2a",
+     "text": "No. of Cartons/Pallet",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Cartons/Pallet</span></p>"
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "5cc82fcb",
+     "text": "20",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02.png",
+       "alt": "20",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "1f7b2b9a",
+     "text": "65",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04.png",
+       "alt": "65",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "4ab037d5",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-01.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "53515fbe",
+     "text": "Telescopic Carton (Net Weight 15 Kgs)",
+     "html": "<p style=\"text-align: center;\"><strong> <span><b>Telescopic Carton (Net Weight 15 Kgs)</b><br/></span></strong></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "2059243d",
+     "text": "No. of Pallets/Container",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Pallets/Container</span></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "56c7c5de",
+     "text": "No. of Cartons/Pallet",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Cartons/Pallet</span></p>"
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "49be6263",
+     "text": "20",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02.png",
+       "alt": "20",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "19e7ba5f",
+     "text": "80",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04.png",
+       "alt": "80",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "879a148",
+     "text": "Seasonality",
+     "html": "<h3>Seasonality</h3>"
+    },
+    {
+     "type": "image",
+     "id": "f0101ec",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/grapfr.jpg",
+       "alt": "GrapeFruits Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4b643598",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-4b643598",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "54c1819b",
+     "text": "Grapefruit",
+     "html": "<h3><strong><span style=\"color: #eaa84e;\"><span> <b>Grapefruit</b><br/></span></span></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "79871711",
+     "text": "OCT",
+     "html": "<p style=\"text-align: center;\">OCT</p>"
+    },
+    {
+     "type": "image",
+     "id": "1abdbf7e",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "31a5eba4",
+     "text": "NOV",
+     "html": "<p style=\"text-align: center;\">NOV</p>"
+    },
+    {
+     "type": "image",
+     "id": "6ecbdcd7",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "dd00134",
+     "text": "DEC",
+     "html": "<p style=\"text-align: center;\">DEC</p>"
+    },
+    {
+     "type": "image",
+     "id": "1294418",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "b4b6e55",
+     "text": "JAN",
+     "html": "<p style=\"text-align: center;\">JAN</p>"
+    },
+    {
+     "type": "image",
+     "id": "21235e5e",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2e2f4e41",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-2e2f4e41",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "64ba9fe7",
+     "text": "Counts",
+     "html": "<h3><strong>Counts<br/></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "32d3c40b",
+     "text": "24",
+     "html": "<p style=\"text-align: center; color: #182719;\">24</p>"
+    },
+    {
+     "type": "icon",
+     "id": "39ac8a5",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "4ed80b35",
+     "text": "28",
+     "html": "<p style=\"text-align: center; color: #182719;\">28</p>"
+    },
+    {
+     "type": "icon",
+     "id": "befa130",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "1b411323",
+     "text": "30",
+     "html": "<p style=\"text-align: center; color: #182719;\">30</p>"
+    },
+    {
+     "type": "icon",
+     "id": "833b5a2",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "e31966",
+     "text": "35",
+     "html": "<p style=\"text-align: center; color: #182719;\">35</p>"
+    },
+    {
+     "type": "icon",
+     "id": "199a8ce",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "2b33f123",
+     "text": "40",
+     "html": "<p style=\"text-align: center; color: #182719;\">40</p>"
+    },
+    {
+     "type": "icon",
+     "id": "0216dab",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "b0d3154",
+     "text": "45",
+     "html": "<p style=\"text-align: center; color: #182719;\">45</p>"
+    },
+    {
+     "type": "icon",
+     "id": "308e98a",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "30b25e50",
+     "text": "50",
+     "html": "<p style=\"text-align: center; color: #182719;\">50</p>"
+    },
+    {
+     "type": "icon",
+     "id": "a260e7f",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "4d02bc04",
+     "text": "55",
+     "html": "<p style=\"text-align: center; color: #182719;\">55</p>"
+    },
+    {
+     "type": "icon",
+     "id": "0c821ea",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "148e8369",
+     "text": "60",
+     "html": "<p style=\"text-align: center; color: #182719;\">60</p>"
+    },
+    {
+     "type": "icon",
+     "id": "c2f3b8b",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "6181535a",
+     "text": "65",
+     "html": "<p style=\"text-align: center; color: #182719;\">65</p>"
+    },
+    {
+     "type": "icon",
+     "id": "038df9b",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "2186bbb",
+     "text": "70",
+     "html": "<p style=\"color: #182719; text-align: center;\">70</p>"
+    },
+    {
+     "type": "icon",
+     "id": "b014f67",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": "558ce553",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-558ce553",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  }
+ ]
+}

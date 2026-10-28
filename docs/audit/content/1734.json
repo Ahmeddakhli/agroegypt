@@ -1,0 +1,314 @@
+{
+ "id": 1734,
+ "slug": "red-globe",
+ "url": "https://agroegypt.com/our-products/grapes/red-globe/",
+ "parent": 1706,
+ "menu_order": 0,
+ "wp_title": "Red Globe",
+ "head": {
+  "title": "Red Globe - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "Red Globe Are large round fruit with bluish-pink color and few seeds (two to three per grape). They are sweet with good juice content and crunchy...",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Red Globe",
+ "breadcrumbs": [
+  "Home",
+  "Our Products",
+  "Grapes",
+  "Red Globe"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/01/gh.jpg"
+ ],
+ "sections": [
+  {
+   "id": "487b69a1",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-487b69a1",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "727cffa",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-727cffa",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "87e88ec",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-87e88ec",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "3433cb9",
+     "text": "Red Globe Are large round fruit with bluish-pink color and few seeds (two to three per grape). They are sweet with good juice content and crunchy.",
+     "html": "<h3><span><b>Red Globe</b><br/></span></h3><h3><span style=\"font-size: 18px; font-weight: 400;\"><span>Are large round fruit with bluish-pink color and few seeds (two to three per grape). They are sweet with good juice content and crunchy.</span></span></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "fac3e05",
+     "text": "Packaging",
+     "html": "<h3>Packaging</h3>"
+    },
+    {
+     "type": "image",
+     "id": "c69db5b",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "9249e7c",
+     "text": "Open Top Carton (Net Weight 4.5 Kgs)",
+     "html": "<p style=\"text-align: center;\"><b>Open Top Carton (Net Weight 4.5 Kgs)</b></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "afe4a4b",
+     "text": "No. of Pallets/Container",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Pallets/Container</span></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "1ba9adc",
+     "text": "No. of Cartons/Pallet",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Cartons/Pallet</span></p>"
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "cd8d5b8",
+     "text": "20",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02.png",
+       "alt": "20",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "57ad5dd",
+     "text": "180",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04.png",
+       "alt": "180",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "29d8a70",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "64910a4",
+     "text": "Open Top Carton (Net Weight 5 Kgs)",
+     "html": "<p style=\"text-align: center;\"><b>Open Top Carton (Net Weight 5 Kgs)</b></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "bc9d052",
+     "text": "No. of Pallets/Container",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Pallets/Container</span></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "b7e66da",
+     "text": "No. of Cartons/Pallet",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Cartons/Pallet</span></p>"
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "d2d4dfe",
+     "text": "20",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02.png",
+       "alt": "20",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "ff41991",
+     "text": "120",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04.png",
+       "alt": "120",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "012a7c5",
+     "text": "Seasonality",
+     "html": "<h3>Seasonality</h3>"
+    },
+    {
+     "type": "image",
+     "id": "53c6b9e",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/red.jpg",
+       "alt": "Onion Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f857585",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-f857585",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "389ce91",
+     "text": "Red Globe",
+     "html": "<h3><strong><span style=\"color: #eaa84e;\"><span>  <b>Red Globe</b><br/><br/></span></span></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "7db7980",
+     "text": "JUL",
+     "html": "<p style=\"text-align: center;\">JUL</p>"
+    },
+    {
+     "type": "image",
+     "id": "9caa980",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "77911d2",
+     "text": "AUG",
+     "html": "<p style=\"text-align: center;\">AUG</p>"
+    },
+    {
+     "type": "image",
+     "id": "3e1c1dd",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "38716a6",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-38716a6",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "04bf73d",
+     "text": "Size",
+     "html": "<h3><strong>Size<br/></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "5dc72cd",
+     "text": "24 mm+",
+     "html": "<p style=\"text-align: center; color: #182719;\">24 mm+</p>"
+    }
+   ]
+  },
+  {
+   "id": "3095d6f3",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-3095d6f3",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "id": 3135,
+ "slug": "onions",
+ "url": "https://agroegypt.com/gallery/onions/",
+ "parent": 3098,
+ "menu_order": 0,
+ "wp_title": "Fresh-Onions",
+ "head": {
+  "title": "Fresh-Onions - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "Onion red and white and yallow",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Fresh-Onions",
+ "breadcrumbs": [
+  "Home",
+  "Gallery",
+  "Fresh-Onions"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/01/oh.jpg"
+ ],
+ "sections": [
+  {
+   "id": "d5d5439",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-d5d5439",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "gt3pg-grid",
+     "id": "ecf3e01",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/OR.jpg",
+       "alt": "Red Onion Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/Red.jpg",
+       "alt": "Red Onion Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/yellow.jpg",
+       "alt": "yellow Onion Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/OR.jpg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2020/12/Red.jpg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2020/12/yellow.jpg",
+       "text": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

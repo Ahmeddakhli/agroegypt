@@ -1,0 +1,398 @@
+{
+ "id": 1745,
+ "slug": "pomegranate",
+ "url": "https://agroegypt.com/our-products/pomegranate/",
+ "parent": 1637,
+ "menu_order": 0,
+ "wp_title": "Pomegranate",
+ "head": {
+  "title": "Pomegranate - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "Pomegranate Is a nearly round medium to large fruit. It’s layered with a deep pink leathery skin, bitter tissue into compartments packed with sacs filled",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Pomegranate",
+ "breadcrumbs": [
+  "Home",
+  "Our Products",
+  "Pomegranate"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/01/ph2.jpg"
+ ],
+ "sections": [
+  {
+   "id": "1ecb5236",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-1ecb5236",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "6e056ead",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-6e056ead",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "26f474cc",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-26f474cc",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "3e0bd30b",
+     "text": "Pomegranate Is a nearly round medium to large fruit. It’s layered with a deep pink leathery skin, the interior has white, spongy, bitter tissue into compartments packed with sacs filled with sweetly acid, juicy, dark pink tiny seeds. The seeds are entirely edible, crunchy, sweet and berry-like in flavor.",
+     "html": "<h3><span> <b>Pomegranate</b><br/></span></h3><h3><span style=\"font-size: 18px; font-weight: 400;\"> <span>Is a nearly round medium to large fruit. It’s layered with a deep pink leathery skin, the interior has white, spongy, bitter tissue into compartments packed with sacs filled with sweetly acid, juicy, dark pink tiny seeds. The seeds are entirely edible, crunchy, sweet and berry-like in flavor.</span><span><br/></span></span></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "4ecf9236",
+     "text": "Packaging",
+     "html": "<h3>Packaging</h3>"
+    },
+    {
+     "type": "image",
+     "id": "165385dd",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-08.jpg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "2b994403",
+     "text": "Open Top Carton (Net Weight 4.5 Kgs)",
+     "html": "<p style=\"text-align: center;\"><b>Open Top Carton (Net Weight 4.5 Kgs)</b></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "719b4ad1",
+     "text": "No. of Pallets/Container",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Pallets/Container</span></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "6dd16dbb",
+     "text": "No. of Cartons/Pallet",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Cartons/Pallet</span></p>"
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "410bee84",
+     "text": "20",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02.png",
+       "alt": "20",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "1892911c",
+     "text": "200",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04.png",
+       "alt": "200",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "d44421",
+     "text": "Seasonality",
+     "html": "<h3>Seasonality</h3>"
+    },
+    {
+     "type": "image",
+     "id": "c49ad12",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/pomegranate.jpg",
+       "alt": "pomegranates Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "41800671",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-41800671",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "4663ebb6",
+     "text": "Pomegranate",
+     "html": "<h3><strong><span style=\"color: #eaa84e;\"><span><b>Pomegranate</b><br/></span></span></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "29003fc3",
+     "text": "SEP",
+     "html": "<p style=\"text-align: center;\">SEP</p>"
+    },
+    {
+     "type": "image",
+     "id": "3af2fd52",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-04-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "2e4a843f",
+     "text": "OCT",
+     "html": "<p style=\"text-align: center;\">OCT</p>"
+    },
+    {
+     "type": "image",
+     "id": "4d00b069",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-04-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "6008f32",
+     "text": "NOV",
+     "html": "<p style=\"text-align: center;\">NOV</p>"
+    },
+    {
+     "type": "image",
+     "id": "5468b030",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-04-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "53e01b2",
+     "text": "DEC",
+     "html": "<p style=\"text-align: center;\">DEC</p>"
+    },
+    {
+     "type": "image",
+     "id": "5bd06b7",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-04-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "60a5c9e",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-60a5c9e",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "2bb59b7b",
+     "text": "Counts",
+     "html": "<h3><strong>Counts<br/></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "5099da61",
+     "text": "6",
+     "html": "<p style=\"text-align: center; color: #182719;\">6</p>"
+    },
+    {
+     "type": "icon",
+     "id": "78d9cc0",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "6c33cc1f",
+     "text": "7",
+     "html": "<p style=\"text-align: center; color: #182719;\">7</p>"
+    },
+    {
+     "type": "icon",
+     "id": "9bbaeb7",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "37c604ef",
+     "text": "8",
+     "html": "<p style=\"text-align: center; color: #182719;\">8</p>"
+    },
+    {
+     "type": "icon",
+     "id": "781038b",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "2b1c2580",
+     "text": "9",
+     "html": "<p style=\"text-align: center; color: #182719;\">9</p>"
+    },
+    {
+     "type": "icon",
+     "id": "d26c934",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "2eea7d4b",
+     "text": "10",
+     "html": "<p style=\"text-align: center; color: #182719;\">10</p>"
+    },
+    {
+     "type": "icon",
+     "id": "9956770",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "63e5c716",
+     "text": "11",
+     "html": "<p style=\"text-align: center; color: #182719;\">11</p>"
+    },
+    {
+     "type": "icon",
+     "id": "fa146e3",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "7d7bb2a6",
+     "text": "12",
+     "html": "<p style=\"text-align: center; color: #182719;\">12</p>"
+    },
+    {
+     "type": "icon",
+     "id": "18d9877",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "4483014d",
+     "text": "13",
+     "html": "<p style=\"text-align: center; color: #182719;\">13</p>"
+    },
+    {
+     "type": "icon",
+     "id": "7b71a9d",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "1712e2f2",
+     "text": "14",
+     "html": "<p style=\"text-align: center; color: #182719;\">14</p>"
+    },
+    {
+     "type": "icon",
+     "id": "862ffb1",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "55e45d31",
+     "text": "15",
+     "html": "<p style=\"text-align: center; color: #182719;\">15</p>"
+    },
+    {
+     "type": "icon",
+     "id": "4c4f933",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": "5d9ae247",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-5d9ae247",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  }
+ ]
+}

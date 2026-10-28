@@ -1,0 +1,147 @@
+{
+ "id": 1751,
+ "slug": "brands",
+ "url": "https://agroegypt.com/brands/",
+ "parent": 0,
+ "menu_order": 0,
+ "wp_title": "Our Brands",
+ "head": {
+  "title": "Our Brands - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "AGROEGYPT has seven brand names which are Agro Egypt, Okay, Princess & Lemons, Four Brothers, Sun Citrus, Sun Fruit & Wonderful sold under different designs...",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Our Brands",
+ "breadcrumbs": [],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/02/brans1.png"
+ ],
+ "sections": [
+  {
+   "id": "7569a3e",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-7569a3e",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "3145eca",
+     "text": "Brands",
+     "html": "<p><b>Brands</b></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "0cd9565",
+     "text": "AGROEGYPT has seven brand names which are Agro Egypt, Okay, Princess & Lemons, Four Brothers, Sun Citrus, Sun Fruit & Wonderful sold under different designs, they are famous for supplying oranges, lemons, grapes and other varieties.",
+     "html": "<p>AGROEGYPT has seven brand names which are Agro Egypt, Okay, Princess &amp; Lemons, Four Brothers, Sun Citrus, Sun Fruit &amp; Wonderful sold under different designs, they are famous for supplying oranges, lemons, grapes and other varieties.</p>"
+    },
+    {
+     "type": "image-gallery",
+     "id": "bb46f20",
+     "text": "Agro Egypt Four Brothers Princess Okay Sun Fruit Lemons Wonderful Lemons Sun Citrus Pomegranate",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/Oranges-1.png",
+       "alt": "Agro egypt Brand Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/for-brothers.png",
+       "alt": "Four Brothers Brand Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2024/11/3-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/Okay.png",
+       "alt": "Okay Brand Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/Sun-Fruit.png",
+       "alt": "Sun Fruit Brand Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/lemone.png",
+       "alt": "lemone Brand Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/Wonderful-lemons.png",
+       "alt": "Wonderful lemons Brand Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/Sun-Citrus.png",
+       "alt": "Sun Citrus Brand Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/p.png",
+       "alt": "Pomegranate Brand Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/Oranges-1.png",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/for-brothers.png",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2024/11/3-1.png",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/Okay.png",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/Sun-Fruit.png",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/lemone.png",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/Wonderful-lemons.png",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/Sun-Citrus.png",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/p.png",
+       "text": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

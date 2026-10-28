@@ -1,0 +1,1901 @@
+{
+ "pages": {
+  "1558": {
+   "slug": "agro-egypt-ghallab",
+   "title": "Home Of Big Citrus Export Company In Egypt :)",
+   "hero": null,
+   "meta_title": "Agro Egypt for agricultural products (Ghallab) - Citrus Export Company in Egypt",
+   "meta_description": "Citrus Export Company in Egypt,citrus,Grapes,red onion,red galric,white onion,garlic,contact us,मिस्र में साइट्रस एक्सपोर्ट कंपनी, साइट्रस, अंगूर, लाल प्याज, लाल लहसुन, सफेद प्याज, लहसुन, हमसे संपर्क करें,埃及柑橘出口公司，柑橘，葡萄，红洋葱，红大蒜，白洋葱，大蒜，联系我们,Компания по экспорту цитрусовых в Египте,цитрусовые,виноград,красный лук,красный чеснок,белый лук,чеснок,свяжитесь с нами"
+  },
+  "322": {
+   "slug": "about-us",
+   "title": "About us",
+   "hero": "2021/01/s17ee.jpg",
+   "meta_title": "About us - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "Egypt is an Egyptian agricultural food exporting company experienced in providing high quality and hygienically safe fruits and vegetables to the markets"
+  },
+  "636": {
+   "slug": "contact-us",
+   "title": "Contact us",
+   "hero": "2021/02/contact1.png",
+   "meta_title": "Contact us - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "Clarification In Agro Egypt ( Ghallab ) We aim to reach you anytime & everywhere. For any inquiries please contact us via Email or Phone Call.save yout time ."
+  },
+  "4460": {
+   "slug": "careers",
+   "title": "Careers",
+   "hero": "2021/01/slider2.jpg",
+   "meta_title": "Careers - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt Careers Working at Agro Egypt (Ghallab) is more than a job; it is a step towards a remarkable career."
+  },
+  "1751": {
+   "slug": "brands",
+   "title": "Our Brands",
+   "hero": "2021/02/brans1.png",
+   "meta_title": "Our Brands - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "AGROEGYPT has seven brand names which are Agro Egypt, Okay, Princess & Lemons, Four Brothers, Sun Citrus, Sun Fruit & Wonderful sold under different designs..."
+  },
+  "2778": {
+   "slug": "markets",
+   "title": "Shipping & Markets",
+   "hero": "2021/01/hs12.jpg",
+   "meta_title": "Shipping & Markets - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "We have been present in the local and international market in the past 45 years handling exports of fresh fruits and vegetables..."
+  },
+  "3098": {
+   "slug": "gallery",
+   "title": "Gallery",
+   "hero": "2021/02/GPS-2.png",
+   "meta_title": "Gallery - Agro Egypt for agricultural products (Ghallab) https://agroegypt.com/gallery/",
+   "meta_description": "- October 2, 2026 Gallery"
+  },
+  "1637": {
+   "slug": "our-products",
+   "title": "Our Products",
+   "hero": "2021/02/contact1.png",
+   "meta_title": "Our Products - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте"
+  }
+ },
+ "home": {
+  "slides": [
+   {
+    "title": "QUALITY",
+    "image": "2022/01/slider2.jpg"
+   },
+   {
+    "title": "EFFECTIVENESS",
+    "image": "2022/01/s17ee.jpg"
+   },
+   {
+    "title": "RELIABILTY",
+    "image": "2022/01/s18.jpg"
+   },
+   {
+    "title": "SELECTION",
+    "image": "2020/09/3.jpg"
+   }
+  ],
+  "products_title": "Our Products",
+  "icon_items": [
+   {
+    "title": "Citrus",
+    "icon": "2020/10/Citrus.png",
+    "url": "wp:1647"
+   },
+   {
+    "title": "Pomegranate",
+    "icon": "2020/10/Pomegranate.png",
+    "url": "wp:1745"
+   },
+   {
+    "title": "Grapes",
+    "icon": "2020/10/Grapes.png",
+    "url": "wp:1706"
+   },
+   {
+    "title": "Mango",
+    "icon": "2020/10/Mango.png",
+    "url": "wp:2023"
+   },
+   {
+    "title": "Onions",
+    "icon": "2020/10/Onions.png",
+    "url": "wp:1682"
+   },
+   {
+    "title": "Fresh Garlic",
+    "icon": "2020/10/Fresh-Garlic.png",
+    "url": "wp:2037"
+   }
+  ],
+  "features": [
+   {
+    "title": "Quality",
+    "body": "We assure you the highest quality of agricultural products in the market that complies with the food industry's international standards.",
+    "icon": "2020/10/Quality.png"
+   },
+   {
+    "title": "Effectiveness",
+    "body": "Our products are well packed and quality controlled on the sorting, sizing and packing to maximize shelf-life.",
+    "icon": "2020/10/Effectiveness.png"
+   },
+   {
+    "title": "Selection",
+    "body": "Our local farms produce the finest fruits and vegetables.",
+    "icon": "2020/10/Selection.png"
+   },
+   {
+    "title": "Reliability",
+    "body": "We provide you with a quick and accurate worldwide shipping.",
+    "icon": "2020/10/Reliability.png"
+   }
+  ],
+  "certificates_title": "CERTIFICATS",
+  "catalogue_title": "Download our Catalogue",
+  "catalogue_button": "Download",
+  "catalogue_bg": "2020/10/home-page.jpg",
+  "catalogue_file": "2020/09/AGROEGYPT.pdf"
+ },
+ "about": {
+  "history": {
+   "title": "Our History",
+   "body": "<p>It all started in 1976 when Mr. Roshdy Ghallab shipped his first shipment of green beans to the Netherlands. Years passed and the business kept growing and so did his sons who decided to take the wheel in 2003 and develop the business to establish one of the top agricultural food exporting companies in Egypt nowadays; Agro Egypt.</p>",
+   "image": "2021/02/WhatsApp-Image-2021-02-18-at-2.15.45-PM.jpeg",
+   "caption": "Mr. Roshdy Ghallab"
+  },
+  "company": {
+   "title": "Our Company",
+   "body": "<p>Agro Egypt is an Egyptian agricultural food exporting company experienced in providing high quality and hygienically safe fruits and vegetables to the international markets. The company holds both BRC, ISO 22000:2005, ACERTA and GLOBALG.A.P certificates, which makes its products fully compatible with global food standards.</p><p>We offer a wide range of fruits and vegetables like; citrus, grapes, pomegranate, mangos, onions, and fresh garlic harvested from our local farms that are located in the finest agricultural area in Egypt. Agro Egypt is currently exporting to over 15 countries, with exports of 41,000 tons per season.</p>",
+   "image": "2021/01/dasd.jpg"
+  },
+  "packing": {
+   "title": "Our Packing Station",
+   "body": "<p>In 2014, AgroEgypt started operating its own packing station with capacity of citrus production 30,000 thirty thousand tons annually and cold Stores capacity of 1500 one thousand five hundred tons.<br>The station lines are divided into several different stages and designed to provide a high-quality finished product.</p><p>Located in the Industrial area of 6th October City, AgroEgypt’s packing station, applies the Pre-Cooling system. This is an essential step that takes place before storage or loading. The Pre-Cooling system, helps in the removal of field heat and thus reduce the rate of respiration and microbial activity.</p><p>AgroEgypt plans to expand its Cold stores capacity and operations by season 2021-2022. The new extension will allow the new Cold stores capacity to become 5000 five thousand tons and consequently the production to reach 60,000 sixty thousand tons annually. A dedicated area in the new extension station will be used to provide Grapes as well as Oranges of the highest quality.</p>",
+   "image": "2021/01/sta.png"
+  },
+  "mission": {
+   "title": "Our Mission",
+   "body": "<p>To provide high quality and hygienically safe fruits and vegetables using advanced production techniques and a full quality management system.</p>",
+   "images": [
+    "2021/01/pixabay_photo_3808354.jpg"
+   ]
+  },
+  "vision": {
+   "title": "Our Vision",
+   "body": "<p>To be the top agricultural food exporting company in Egypt and MENA, and to build trust with the international markets by providing the finest fruits and vegetables.</p>",
+   "image": "2021/02/12121-copy.jpg",
+   "progress": [
+    {
+     "title": "Product Purity",
+     "value": "98"
+    },
+    {
+     "title": "Farmers Competence",
+     "value": "89"
+    },
+    {
+     "title": "Equipment",
+     "value": "90"
+    },
+    {
+     "title": "Satisfied Customers",
+     "value": "99"
+    }
+   ],
+   "button": "Get in Touch"
+  }
+ },
+ "brands": {
+  "title": "Brands",
+  "body": "<p>AGROEGYPT has seven brand names which are Agro Egypt, Okay, Princess & Lemons, Four Brothers, Sun Citrus, Sun Fruit & Wonderful sold under different designs, they are famous for supplying oranges, lemons, grapes and other varieties.</p>",
+  "items": [
+   {
+    "title": "Agro Egypt",
+    "image": "2021/01/Oranges-1.png"
+   },
+   {
+    "title": "Four Brothers",
+    "image": "2021/01/for-brothers.png"
+   },
+   {
+    "title": "Princess",
+    "image": "2024/11/3-1.png"
+   },
+   {
+    "title": "Okay",
+    "image": "2021/01/Okay.png"
+   },
+   {
+    "title": "Sun Fruit",
+    "image": "2021/01/Sun-Fruit.png"
+   },
+   {
+    "title": "Lemons",
+    "image": "2021/01/lemone.png"
+   },
+   {
+    "title": "Wonderful Lemons",
+    "image": "2021/01/Wonderful-lemons.png"
+   },
+   {
+    "title": "Sun Citrus",
+    "image": "2021/01/Sun-Citrus.png"
+   },
+   {
+    "title": "Pomegranate",
+    "image": "2021/01/p.png"
+   }
+  ]
+ },
+ "markets": {
+  "shipping_title": "Shipping",
+  "shipping_body": "<p>Shipping good taste anywhere in the world.<br>We partnered with the top shipping companies to provide you with the fastest and most reliable shipping experience. Our fruits and vegetables will be well packed and sorted to maintain its shelf-life when it arrives to your storage.</p>",
+  "markets_title": "Markets",
+  "markets_body": "<p>We have been present in the local and international market in the past 45 years handling exports of fresh fruits and vegetables; we achieved the highest standards of customer satisfaction and reliability by exporting the finest agricultural food to provide the world with a good taste of Egypt directly from its local farms at competitive prices.</p>",
+  "markets_bg": null,
+  "map": "2024/11/markets-copy.png",
+  "regions": [
+   {
+    "title": "Western Europe",
+    "body": "Spain\nItaly\nNetherlands\nEngland\nFrance\nGermany\nSlovenia"
+   },
+   {
+    "title": "Eastern Europe",
+    "body": "Russia\nUkraine\nBelarus\nLatvia\nLithuania"
+   },
+   {
+    "title": "East Asia",
+    "body": "China\nHong Kong\nJapan\nSingapore"
+   },
+   {
+    "title": "Southeast Asia",
+    "body": "Malaysia\nCambodia\nIndonesia"
+   },
+   {
+    "title": "Gulf Region",
+    "body": "United Arab Emirates\nJordan\nKuwait\nOman\nQatar\nBahrain\nSaudi Arabia"
+   },
+   {
+    "title": "South Asia",
+    "body": "India\nBangladesh"
+   },
+   {
+    "title": "North America",
+    "body": "Canada"
+   },
+   {
+    "title": "South America",
+    "body": "Argentina\nBrazil"
+   },
+   {
+    "title": "Central Asia",
+    "body": "Kazakhstan"
+   },
+   {
+    "title": "Oceania",
+    "body": "Australia"
+   }
+  ]
+ },
+ "contact": {
+  "items": [
+   {
+    "icon": "2021/02/lemon-10-1.png",
+    "body": "CPC Industrial Park – Plot no (2-3) , 6th October City, Egypt.",
+    "url": null
+   },
+   {
+    "icon": "2021/02/lemon-11-1.png",
+    "body": "(+202) 38642048",
+    "url": "tel:+20238642048"
+   },
+   {
+    "icon": "2021/02/lemon-12.png",
+    "body": "(+202) 38642049",
+    "url": null
+   },
+   {
+    "icon": "2021/02/lemon-09.png",
+    "body": "info@agroegypt.com",
+    "url": "mailto:info@agroegypt.com"
+   }
+  ],
+  "title": "Get in touch",
+  "body": "<p>Want to know more information about our tasty fruits and vegetables? Leave your contact info and message below and one of our customer support team will contact you shortly.</p>",
+  "map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1728.50566025949!2d30.8781868!3d29.950353!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1458ff4f4b9b2ce7%3A0xdab949540576c2f!2sAGRO%20EGYPT!5e0!3m2!1sen!2seg!4v1599025032477!5m2!1sen!2seg"
+ },
+ "careers": {
+  "title": "Careers"
+ },
+ "galleries": [
+  {
+   "wp_id": 3110,
+   "slug": "citrus",
+   "title": "Citrus",
+   "cover": "2021/01/o1.jpg",
+   "featured": false,
+   "sort": 0,
+   "images": [
+    "2021/01/1-15.jpeg",
+    "2021/01/1-16.jpeg",
+    "2021/01/1-50.jpeg",
+    "2021/01/1-51.jpeg",
+    "2021/01/1-52.jpeg",
+    "2021/01/1-53.jpeg",
+    "2021/01/1-55.jpeg",
+    "2021/01/1-59.jpeg",
+    "2021/01/1-68.jpeg",
+    "2021/01/1-72.jpeg",
+    "2021/01/1-73.jpeg",
+    "2021/01/1-74.jpeg",
+    "2021/01/1-76.jpeg",
+    "2021/01/1-81.jpeg",
+    "2021/01/1-89.jpeg",
+    "2021/01/1-94.jpeg"
+   ],
+   "meta_title": "Fresh-Citrus - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "Citrus is a genus of flowering trees and shrubs in the rue family, Rutaceae. , like (Oranges - Lemons - Grapefruit - Mandarins)"
+  },
+  {
+   "wp_id": 3146,
+   "slug": "grapes",
+   "title": "Grapes",
+   "cover": "2021/01/flam.jpg",
+   "featured": false,
+   "sort": 1,
+   "images": [
+    "2021/01/1-58.jpeg",
+    "2021/01/1-61.jpeg",
+    "2021/01/1-62.jpeg",
+    "2021/01/1-63.jpeg",
+    "2021/01/1-64.jpeg",
+    "2021/01/1-66.jpeg",
+    "2021/01/1-67.jpeg",
+    "2021/01/1-80.jpeg",
+    "2021/01/1-83.jpeg",
+    "2021/01/1-84.jpeg",
+    "2021/01/1-87.jpeg",
+    "2021/01/1-88.jpeg",
+    "2021/01/1-91.jpeg"
+   ],
+   "meta_title": "Fresh-Grapes - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "Onion Agricultureal Products"
+  },
+  {
+   "wp_id": 3124,
+   "slug": "pomegranate",
+   "title": "Pomegranates",
+   "cover": "2020/12/pomegranate.jpg",
+   "featured": false,
+   "sort": 2,
+   "images": [
+    "2021/01/1-38.jpeg",
+    "2021/01/1-39.jpeg",
+    "2021/01/1-40.jpeg",
+    "2021/01/1-41.jpeg",
+    "2021/01/1-42.jpeg",
+    "2021/01/1-43.jpeg",
+    "2021/01/1-44.jpeg",
+    "2021/01/1-45.jpeg",
+    "2021/01/1-46.jpeg",
+    "2021/01/1-47.jpeg",
+    "2021/01/1-48.jpeg"
+   ],
+   "meta_title": "Fresh-Pomegranate - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "#post_excerptfresh fruit"
+  },
+  {
+   "wp_id": 3178,
+   "slug": "mango",
+   "title": "Mango",
+   "cover": "2020/09/Naomi.jpeg",
+   "featured": false,
+   "sort": 3,
+   "images": [
+    "2021/01/1-24.jpeg",
+    "2021/01/1-23.jpeg"
+   ],
+   "meta_title": "Fresh-Mango - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "Agricultureal Products Ghallab (Exporting fresh fruit and vegetables to Over the world)"
+  },
+  {
+   "wp_id": 3180,
+   "slug": "garlic",
+   "title": "Garlic",
+   "cover": "2021/01/GR-1.jpg",
+   "featured": false,
+   "sort": 4,
+   "images": [
+    "2021/01/1-22.jpeg",
+    "2021/01/1-21.jpeg",
+    "2021/01/1-20.jpeg",
+    "2021/01/1-19.jpeg",
+    "2021/01/1-18.jpeg",
+    "2021/01/1-17.jpeg",
+    "2021/01/1-101.jpeg",
+    "2021/01/1-37.jpeg",
+    "2021/01/1-36.jpeg",
+    "2021/01/1-35.jpeg",
+    "2021/01/1-34.jpeg",
+    "2021/01/1-33.jpeg",
+    "2021/01/1-32.jpeg",
+    "2021/01/1-31.jpeg",
+    "2021/01/1-30.jpeg",
+    "2021/01/1-29.jpeg",
+    "2021/01/1-28.jpeg",
+    "2021/01/1-27.jpeg",
+    "2021/01/1-25.jpeg",
+    "2021/01/1-26.jpeg"
+   ],
+   "meta_title": "Garlic Gallery - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "fresh fruit and vegetables"
+  },
+  {
+   "wp_id": 3135,
+   "slug": "onions",
+   "title": "Onions",
+   "cover": "2020/12/Red.jpg",
+   "featured": false,
+   "sort": 5,
+   "images": [
+    "2021/01/OR.jpg",
+    "2020/12/Red.jpg",
+    "2020/12/yellow.jpg"
+   ],
+   "meta_title": "Fresh-Onions - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "Onion red and white and yallow"
+  },
+  {
+   "wp_id": 3100,
+   "slug": "pack-house",
+   "title": "Packing Station",
+   "cover": "2021/01/dasd.jpg",
+   "featured": true,
+   "sort": 6,
+   "images": [
+    "2021/01/dasd.jpg",
+    "2021/01/WhatsApp-Image-2020-12-15-at-1.17.49-PM.jpeg",
+    "2021/01/WhatsApp-Image-2020-12-15-at-1.17.50-PM.jpeg",
+    "2021/01/WhatsApp-Image-2020-12-15-at-1.17.51-PM.jpeg",
+    "2021/01/WhatsApp-Image-2020-12-15-at-1.17.52-PM-1.jpeg",
+    "2021/01/WhatsApp-Image-2020-12-15-at-1.17.52-PM.jpeg",
+    "2021/01/company.jpg",
+    "2020/08/005.jpeg",
+    "2020/08/003.jpeg"
+   ],
+   "meta_title": "Packing Station - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "Exporting fresh fruit and vegetables to Over the world"
+  }
+ ],
+ "catalog": [
+  {
+   "wp_id": 1647,
+   "slug": "citrus",
+   "name": "Citrus",
+   "sort": 0,
+   "hero": "2020/12/citruse-1.jpg",
+   "card": "2020/09/Baladi.jpg",
+   "meta_title": "Citrus - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "kind": "category",
+   "children": [
+    {
+     "wp_id": 1654,
+     "slug": "orange",
+     "name": "Oranges",
+     "sort": 0,
+     "hero": "2021/01/image-6-copy.jpg",
+     "card": "2021/01/c1.jpg",
+     "meta_title": "Oranges - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+     "kind": "category",
+     "children": [
+      {
+       "wp_id": 1665,
+       "slug": "navel",
+       "name": "Navels",
+       "sort": 0,
+       "hero": "2021/01/image-6-copy.jpg",
+       "card": "2021/01/o2.jpg",
+       "meta_title": "Navels - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+       "meta_description": "Navels Are hybrids that were the result of crossing a tangelo and a mandarin orange which make them deliciously sweet, it resembles a human navel ....",
+       "kind": "product",
+       "subtitle": "Navels",
+       "description": "Are hybrids that were the result of crossing a tangelo and a mandarin orange which make them deliciously sweet, it resembles a human navel (bellybutton)—hence the name. They are seedless, are easy to peel, and are thought to be one of the world’s best-tasting oranges.",
+       "varieties": [
+        "Washington Navels",
+        "Lane Late Navels",
+        "Cara Cara Navels"
+       ],
+       "image": "2021/01/o2.jpg",
+       "season_icon": "2020/12/product2-Recovered-01-1.png",
+       "packaging": [
+        {
+         "title": "Open Top Carton (Net Weight 15 Kgs)",
+         "icon": "2020/10/opened-packaged-03.png",
+         "specs": [
+          {
+           "label": "No. of Pallets/Container",
+           "value": "20",
+           "icon": "2020/10/opened-packaged-02.png"
+          },
+          {
+           "label": "No. of Cartons/Pallet",
+           "value": "65",
+           "icon": "2020/10/opened-packaged-04.png"
+          }
+         ]
+        },
+        {
+         "title": "Telescopic Carton (Net Weight 15 Kgs)",
+         "icon": "2020/10/opened-packaged-01.png",
+         "specs": [
+          {
+           "label": "No. of Pallets/Container",
+           "value": "20",
+           "icon": "2020/10/opened-packaged-02.png"
+          },
+          {
+           "label": "No. of Cartons/Pallet",
+           "value": "80",
+           "icon": "2020/10/opened-packaged-04.png"
+          }
+         ]
+        }
+       ],
+       "seasons": [
+        {
+         "label": "Washington Navels",
+         "months": [
+          12,
+          1,
+          2
+         ]
+        },
+        {
+         "label": "Lane Late Navels",
+         "months": [
+          3,
+          4
+         ]
+        },
+        {
+         "label": "Cara Cara Navels",
+         "months": [
+          12,
+          1
+         ]
+        }
+       ],
+       "spec_label": "Counts",
+       "spec_values": [
+        "40",
+        "48",
+        "56",
+        "64",
+        "72",
+        "80",
+        "88",
+        "100",
+        "113"
+       ]
+      },
+      {
+       "wp_id": 1671,
+       "slug": "valencia",
+       "name": "Valencia",
+       "sort": 1,
+       "hero": "2021/01/image-6-copy.jpg",
+       "card": "2021/01/o1.jpg",
+       "meta_title": "Valencia - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+       "meta_description": "Valencia Orange They are medium to large fruits with a smooth, finely rough skin which is tough to peel, have a few seeds and popular of their juicing character",
+       "kind": "product",
+       "subtitle": "Valencia",
+       "description": "They are medium to large fruits with a smooth, finely rough skin which is tough to peel, have a few seeds and popular of their juicing character.",
+       "varieties": [],
+       "image": "2021/01/o1.jpg",
+       "season_icon": "2020/12/product2-Recovered-01-1.png",
+       "packaging": [
+        {
+         "title": "Open Top Carton (Net Weight 15 Kgs)",
+         "icon": "2020/10/opened-packaged-03.png",
+         "specs": [
+          {
+           "label": "No. of Pallets/Container",
+           "value": "20",
+           "icon": "2020/10/opened-packaged-02.png"
+          },
+          {
+           "label": "No. of Cartons/Pallet",
+           "value": "65",
+           "icon": "2020/10/opened-packaged-04.png"
+          }
+         ]
+        },
+        {
+         "title": "Telescopic Carton (Net Weight 15 Kgs)",
+         "icon": "2020/10/opened-packaged-01.png",
+         "specs": [
+          {
+           "label": "No. of Pallets/Container",
+           "value": "20",
+           "icon": "2020/10/opened-packaged-02.png"
+          },
+          {
+           "label": "No. of Cartons/Pallet",
+           "value": "80",
+           "icon": "2020/10/opened-packaged-04.png"
+          }
+         ]
+        },
+        {
+         "title": "Bins 600 Kgs",
+         "icon": "2020/12/product2-Recovered-07-1.png",
+         "specs": []
+        }
+       ],
+       "seasons": [
+        {
+         "label": "Valencia",
+         "months": [
+          1,
+          2,
+          3,
+          4,
+          5
+         ]
+        }
+       ],
+       "spec_label": "Counts",
+       "spec_values": [
+        "40",
+        "48",
+        "56",
+        "64",
+        "72",
+        "80",
+        "88",
+        "100",
+        "113",
+        "125"
+       ]
+      },
+      {
+       "wp_id": 1677,
+       "slug": "baladi",
+       "name": "Baladi",
+       "sort": 2,
+       "hero": "2021/01/image-6-copy.jpg",
+       "card": "2021/01/o3.jpg",
+       "meta_title": "Baladi - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+       "meta_description": "Baladi Oranges Are small to medium sized seedy fruits with the same taste as Valencia oranges, they are easy to squeeze, deep orange in color and full of juice.",
+       "kind": "product",
+       "subtitle": "Baladi",
+       "description": "Are small to medium sized seedy fruits with the same taste as Valencia oranges, they are easy to squeeze, deep orange in color and full of juice.",
+       "varieties": [],
+       "image": "2021/01/o3.jpg",
+       "season_icon": "2020/12/product2-Recovered-01-1.png",
+       "packaging": [
+        {
+         "title": "Open Top Carton (Net Weight 15 Kgs)",
+         "icon": "2020/10/opened-packaged-03.png",
+         "specs": [
+          {
+           "label": "No. of Pallets/Container",
+           "value": "20",
+           "icon": "2020/10/opened-packaged-02.png"
+          },
+          {
+           "label": "No. of Cartons/Pallet",
+           "value": "65",
+           "icon": "2020/10/opened-packaged-04.png"
+          }
+         ]
+        },
+        {
+         "title": "Telescopic Carton (Net Weight 15 Kgs).",
+         "icon": "2020/10/opened-packaged-01.png",
+         "specs": [
+          {
+           "label": "No. of Pallets/Container",
+           "value": "20",
+           "icon": "2020/10/opened-packaged-02.png"
+          },
+          {
+           "label": "No. of Cartons/Pallet",
+           "value": "80",
+           "icon": "2020/10/opened-packaged-04.png"
+          }
+         ]
+        },
+        {
+         "title": "Bins 600 Kgs",
+         "icon": "2020/12/product2-Recovered-07-1.png",
+         "specs": []
+        }
+       ],
+       "seasons": [
+        {
+         "label": "Baladi",
+         "months": [
+          12,
+          1
+         ]
+        }
+       ],
+       "spec_label": "Counts",
+       "spec_values": [
+        "56",
+        "64",
+        "72",
+        "80",
+        "88",
+        "100",
+        "113",
+        "125"
+       ]
+      }
+     ]
+    },
+    {
+     "wp_id": 1658,
+     "slug": "lemon",
+     "name": "Lemons",
+     "sort": 1,
+     "hero": "2020/11/lemonse.jpg",
+     "card": "2021/01/c2.jpg",
+     "meta_title": "Lemons - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+     "kind": "product",
+     "subtitle": "Lemons",
+     "description": "Are among the world’s most popular citrus fruits. They grow on lemon trees and are a hybrid of the original citron and lime.",
+     "varieties": [],
+     "image": "2021/01/lemon.jpg",
+     "season_icon": "2020/12/product2-Recovered-01-1.png",
+     "packaging": [
+      {
+       "title": "Telescpic Carton (Net Weight 15 Kgs)",
+       "icon": "2020/10/opened-packaged-01.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "80",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "Eureka",
+       "months": [
+        12,
+        1,
+        2,
+        3
+       ]
+      }
+     ],
+     "spec_label": "Counts",
+     "spec_values": [
+      "72",
+      "80",
+      "88",
+      "100",
+      "113",
+      "125",
+      "138",
+      "150",
+      "162",
+      "189",
+      "216"
+     ]
+    },
+    {
+     "wp_id": 2483,
+     "slug": "grapefruit-2",
+     "name": "Grapefruit",
+     "sort": 2,
+     "hero": "2021/02/GPS.png",
+     "card": "2021/01/c3.jpg",
+     "meta_title": "Grapefruit - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "Grapefruit Is a tropical large citrus fruit related to the orange, lemon, and pomelo families with a flavor that can range from bittersweet to sour.",
+     "kind": "product",
+     "subtitle": "Grapefruit",
+     "description": "Is a tropical large citrus fruit related to the orange, lemon, and pomelo families with a flavor that can range from bittersweet to sour. One of the best varieties of grapefruit is Star Ruby, which is known for its darkest red inside pigmentation among all the grapefruit varieties.",
+     "varieties": [
+      "Star Ruby",
+      "Ruby Red"
+     ],
+     "image": "2021/01/grapfr.jpg",
+     "season_icon": "2020/12/product2-Recovered-01-1.png",
+     "packaging": [
+      {
+       "title": "Open Top Carton (Net Weight 15 Kgs)",
+       "icon": "2020/10/opened-packaged-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "65",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Telescopic Carton (Net Weight 15 Kgs)",
+       "icon": "2020/10/opened-packaged-01.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "80",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "Grapefruit",
+       "months": [
+        10,
+        11,
+        12,
+        1
+       ]
+      }
+     ],
+     "spec_label": "Counts",
+     "spec_values": [
+      "24",
+      "28",
+      "30",
+      "35",
+      "40",
+      "45",
+      "50",
+      "55",
+      "60",
+      "65",
+      "70"
+     ]
+    },
+    {
+     "wp_id": 2490,
+     "slug": "mandarine-2",
+     "name": "Mandarins",
+     "sort": 3,
+     "hero": "2021/01/s17ee.jpg",
+     "card": "2021/01/c4.jpg",
+     "meta_title": "Mandarins - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "Mandarins Is a small citrus tree but typically sweeter and less acidic than oranges. Mandarin has several varieties like Fremont, W. Murcott and Honey Murcott",
+     "kind": "product",
+     "subtitle": "Mandarins",
+     "description": "Is a small citrus tree with loose-skinned fruit resembling other oranges but typically sweeter and less acidic than oranges. Mandarin has several varieties like Fremont, W. Murcott and Honey Murcott, that are varieties originated by natural mutations with other citruses.",
+     "varieties": [
+      "Fremont",
+      "W Murcott",
+      "Kinnow",
+      "Honey Murcott"
+     ],
+     "image": "2021/01/mandaren.jpg",
+     "season_icon": "2020/12/product2-Recovered-01-1.png",
+     "packaging": [
+      {
+       "title": "Open Top Carton (Net Weight 15 Kgs)",
+       "icon": "2020/10/opened-packaged-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "104",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Telescopic Carton (Net Weight 15 Kgs)",
+       "icon": "2020/10/opened-packaged-01.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "126",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "Fremont",
+       "months": [
+        11,
+        12
+       ]
+      },
+      {
+       "label": "W Murcott",
+       "months": [
+        1,
+        2
+       ]
+      },
+      {
+       "label": "Kinnow",
+       "months": [
+        1,
+        2
+       ]
+      },
+      {
+       "label": "Honey Murcott",
+       "months": [
+        2,
+        3,
+        4
+       ]
+      }
+     ],
+     "spec_label": "Counts",
+     "spec_values": [
+      "42",
+      "48",
+      "54",
+      "60",
+      "66",
+      "72",
+      "80",
+      "90",
+      "100",
+      "110"
+     ]
+    }
+   ]
+  },
+  {
+   "wp_id": 1706,
+   "slug": "grapes",
+   "name": "Grapes",
+   "sort": 1,
+   "hero": "2021/01/gh.jpg",
+   "card": "2021/01/flam.jpg",
+   "meta_title": "Grapes - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "kind": "category",
+   "children": [
+    {
+     "wp_id": 1711,
+     "slug": "sugraone",
+     "name": "Sugraone",
+     "sort": 0,
+     "hero": "2021/01/gh.jpg",
+     "card": "2021/01/grapes-sugraone-1.jpg",
+     "meta_title": "Sugraone - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "A pale yellow-green seedless medium-size oval fruit that has a light, sweet flavor wrapped in a crisp skin.",
+     "kind": "product",
+     "subtitle": "Sugraone",
+     "description": "A pale yellow-green seedless medium-size oval fruit that has a light, sweet flavor wrapped in a crisp skin.",
+     "varieties": [],
+     "image": "2021/01/grapes-sugraone-1.jpg",
+     "season_icon": "2020/12/product2-Recovered-03-1.png",
+     "packaging": [
+      {
+       "title": "Open Top Carton (Net Weight 4.5 Kgs)",
+       "icon": "2020/10/opened-packaged-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "180",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Open Top Carton (Net Weight 5 Kgs)",
+       "icon": "2020/10/opened-packaged-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "120",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "Sugraone",
+       "months": [
+        5,
+        6
+       ]
+      }
+     ],
+     "spec_label": "Size",
+     "spec_values": [
+      "18 mm+"
+     ]
+    },
+    {
+     "wp_id": 1720,
+     "slug": "flame",
+     "name": "Flame",
+     "sort": 1,
+     "hero": "2021/01/gh.jpg",
+     "card": "2021/01/flam.jpg",
+     "meta_title": "Flame - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "Flame Grapes Are medium- large light red fruit with a crisp skin and a sweet flavor. They are seedless and firmly attached to the stem...",
+     "kind": "product",
+     "subtitle": "Flame",
+     "description": "Are medium- large light red fruit with a crisp skin and a sweet flavor. They are seedless and firmly attached to the stem.",
+     "varieties": [],
+     "image": "2021/01/flam.jpg",
+     "season_icon": "2020/12/product2-Recovered-03-1.png",
+     "packaging": [
+      {
+       "title": "Open Top Carton (Net Weight 4.5 Kgs)",
+       "icon": "2020/10/opened-packaged-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "180",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Open Top Carton (Net Weight 5 Kgs)",
+       "icon": "2020/10/opened-packaged-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "120",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "Flame",
+       "months": [
+        5,
+        6
+       ]
+      }
+     ],
+     "spec_label": "Size",
+     "spec_values": [
+      "16 mm+"
+     ]
+    },
+    {
+     "wp_id": 1734,
+     "slug": "red-globe",
+     "name": "Red Globe",
+     "sort": 2,
+     "hero": "2021/01/gh.jpg",
+     "card": "2021/01/red.jpg",
+     "meta_title": "Red Globe - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "Red Globe Are large round fruit with bluish-pink color and few seeds (two to three per grape). They are sweet with good juice content and crunchy...",
+     "kind": "product",
+     "subtitle": "Red Globe",
+     "description": "Are large round fruit with bluish-pink color and few seeds (two to three per grape). They are sweet with good juice content and crunchy.",
+     "varieties": [],
+     "image": "2021/01/red.jpg",
+     "season_icon": "2020/12/product2-Recovered-03-1.png",
+     "packaging": [
+      {
+       "title": "Open Top Carton (Net Weight 4.5 Kgs)",
+       "icon": "2020/10/opened-packaged-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "180",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Open Top Carton (Net Weight 5 Kgs)",
+       "icon": "2020/10/opened-packaged-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "120",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "Red Globe",
+       "months": [
+        7,
+        8
+       ]
+      }
+     ],
+     "spec_label": "Size",
+     "spec_values": [
+      "24 mm+"
+     ]
+    },
+    {
+     "wp_id": 2950,
+     "slug": "black-grapes",
+     "name": "Black Grapes",
+     "sort": 3,
+     "hero": "2021/01/gh.jpg",
+     "card": "2020/12/black-.jpg",
+     "meta_title": "Black Grapes - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "Black Grapes Are seedless small to medium size fruit with dark purple to black color. They are less crunchy compared to red and green grapes but are juicy and sweet...",
+     "kind": "product",
+     "subtitle": "Black Grapes",
+     "description": "Are seedless small to medium size fruit with dark purple to black color. They are less crunchy compared to red and green grapes but are juicy and sweet.",
+     "varieties": [
+      "Black Magic",
+      "Autumn Royal"
+     ],
+     "image": "2020/12/black-.jpg",
+     "season_icon": "2020/12/product2-Recovered-03-1.png",
+     "packaging": [
+      {
+       "title": "Open Top Carton (Net Weight 4.5 Kgs)",
+       "icon": "2020/10/opened-packaged-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "180",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Open Top Carton (Net Weight 5 Kgs)",
+       "icon": "2020/10/opened-packaged-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "120",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "Black Magic",
+       "months": [
+        6,
+        7
+       ]
+      },
+      {
+       "label": "Autumn Royal",
+       "months": [
+        7,
+        8
+       ]
+      }
+     ],
+     "spec_label": "Size",
+     "spec_values": [
+      "18 mm+"
+     ]
+    },
+    {
+     "wp_id": 1740,
+     "slug": "crimson",
+     "name": "Crimson",
+     "sort": 4,
+     "hero": "2021/01/gh.jpg",
+     "card": "2021/01/crimson.jpg",
+     "meta_title": "Crimson - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "Crimson Are seedless pinkish red grapes and are medium in size. They have crisp skin, a good level of sweetness and transit holding patterns...",
+     "kind": "product",
+     "subtitle": "Crimson",
+     "description": "Are seedless pinkish red grapes and are medium in size. They have crisp skin, a good level of sweetness and transit holding patterns.",
+     "varieties": [],
+     "image": "2021/01/crimson.jpg",
+     "season_icon": "2020/12/product2-Recovered-03-1.png",
+     "packaging": [
+      {
+       "title": "Open Top Carton (Net Weight 4.5 Kgs)",
+       "icon": "2020/10/opened-packaged-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "180",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Open Top Carton (Net Weight 5 Kgs)",
+       "icon": "2020/10/opened-packaged-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Cartons/Pallet",
+         "value": "120",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "Crimson",
+       "months": [
+        8,
+        9,
+        10
+       ]
+      }
+     ],
+     "spec_label": "Size",
+     "spec_values": [
+      "18 mm+"
+     ]
+    }
+   ]
+  },
+  {
+   "wp_id": 1745,
+   "slug": "pomegranate",
+   "name": "Pomegranate",
+   "sort": 2,
+   "hero": "2021/01/ph2.jpg",
+   "card": "2020/12/pomegranate.jpg",
+   "meta_title": "Pomegranate - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "Pomegranate Is a nearly round medium to large fruit. It’s layered with a deep pink leathery skin, bitter tissue into compartments packed with sacs filled",
+   "kind": "product",
+   "subtitle": "Pomegranate",
+   "description": "Is a nearly round medium to large fruit. It’s layered with a deep pink leathery skin, the interior has white, spongy, bitter tissue into compartments packed with sacs filled with sweetly acid, juicy, dark pink tiny seeds. The seeds are entirely edible, crunchy, sweet and berry-like in flavor.",
+   "varieties": [],
+   "image": "2020/12/pomegranate.jpg",
+   "season_icon": "2020/12/product2-Recovered-04-1.png",
+   "packaging": [
+    {
+     "title": "Open Top Carton (Net Weight 4.5 Kgs)",
+     "icon": "2020/12/product2-Recovered-08.jpg",
+     "specs": [
+      {
+       "label": "No. of Pallets/Container",
+       "value": "20",
+       "icon": "2020/10/opened-packaged-02.png"
+      },
+      {
+       "label": "No. of Cartons/Pallet",
+       "value": "200",
+       "icon": "2020/10/opened-packaged-04.png"
+      }
+     ]
+    }
+   ],
+   "seasons": [
+    {
+     "label": "Pomegranate",
+     "months": [
+      9,
+      10,
+      11,
+      12
+     ]
+    }
+   ],
+   "spec_label": "Counts",
+   "spec_values": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15"
+   ]
+  },
+  {
+   "wp_id": 2023,
+   "slug": "mango",
+   "name": "Mango",
+   "sort": 3,
+   "hero": "2021/01/mh.jpg",
+   "card": "2020/09/Alphonso.jpeg",
+   "meta_title": "Mango - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "kind": "product",
+   "subtitle": "Mango",
+   "description": "It’s an oval shaped fruit that is from the cashew family, it has many varieties That ranges in the level of sweetness and their buttery flesh. Mango sizes vary from 5 to 15 cm in length and from 4 to 10 cm in width and weights from 150 grams to 750 grams per fruit. Some of the most popular mango varieties are; Keitt, Kent, Naomi, and Tommy Atkins",
+   "varieties": [
+    "Heidy Mango",
+    "Tommy Atkins",
+    "Naomi Mango",
+    "Keitt Mango",
+    "Kent Mango",
+    "R2"
+   ],
+   "image": "2021/01/MP.jpg",
+   "season_icon": "2020/12/product2-Recovered-05-1.png",
+   "packaging": [
+    {
+     "title": "Open Top Carton (Net Weight 6 Kgs)",
+     "icon": "2020/10/opened-packaged-03.png",
+     "specs": [
+      {
+       "label": "No. of Pallets/Container",
+       "value": "20",
+       "icon": "2020/10/opened-packaged-02.png"
+      },
+      {
+       "label": "No. of Cartons/Pallet",
+       "value": "140",
+       "icon": "2020/10/opened-packaged-04.png"
+      }
+     ]
+    }
+   ],
+   "seasons": [
+    {
+     "label": "Heidy Mango",
+     "months": [
+      8,
+      9
+     ]
+    },
+    {
+     "label": "Keitt Mango",
+     "months": [
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "label": "Kent Mango",
+     "months": [
+      8,
+      9
+     ]
+    },
+    {
+     "label": "Naomi Mango",
+     "months": [
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "label": "R2",
+     "months": [
+      8,
+      9
+     ]
+    },
+    {
+     "label": "Tommy Atkins",
+     "months": [
+      7,
+      8,
+      9
+     ]
+    }
+   ],
+   "spec_label": "Counts",
+   "spec_values": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15"
+   ]
+  },
+  {
+   "wp_id": 1682,
+   "slug": "onions",
+   "name": "Onions",
+   "sort": 4,
+   "hero": "2021/01/oh.jpg",
+   "card": "2021/01/OR.jpg",
+   "meta_title": "Onions - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "- Discover our high-quality onions, sourced fresh from local farms. Explore our variety of onion products and find the perfect fit for your culinary needs.",
+   "kind": "category",
+   "children": [
+    {
+     "wp_id": 1685,
+     "slug": "yellow",
+     "name": "Yellow",
+     "sort": 0,
+     "hero": "2021/01/oh.jpg",
+     "card": "2021/01/OG.jpg",
+     "meta_title": "Yellow - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+     "kind": "product",
+     "subtitle": "Yellow",
+     "description": "Also known as brown onion, is a variety of dry onion with a strong flavor. They have a nice balance of astringency and sweet in their flavor.",
+     "varieties": [],
+     "image": "2020/12/yellow.jpg",
+     "season_icon": "2020/12/product2-Recovered-02-1.png",
+     "packaging": [
+      {
+       "title": "Mesh Bags (Net Weight 10 Kgs)",
+       "icon": "2020/11/jhf-Recovered-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Mesh Bags/Pallets",
+         "value": "135",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Mesh Bags (Net weight 25 kgs)",
+       "icon": "2020/11/jhf-Recovered-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Mesh Bags/Pallets",
+         "value": "55",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "Yellow",
+       "months": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+       ]
+      }
+     ],
+     "spec_label": "Counts",
+     "spec_values": [
+      "40-60",
+      "60-80",
+      "80-100",
+      "50-70",
+      "70-90",
+      "90-110"
+     ]
+    },
+    {
+     "wp_id": 1693,
+     "slug": "red",
+     "name": "Red Onion",
+     "sort": 1,
+     "hero": "2021/01/oh.jpg",
+     "card": "2021/01/OR.jpg",
+     "meta_title": "Red Onion - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "Red Onions Are small to medium in size, averaging 10-15 centimeters in diameter, and are round to slightly oval.",
+     "kind": "product",
+     "subtitle": "Red",
+     "description": "Are small to medium in size, averaging 10-15 centimeters in diameter, and are round to slightly oval.",
+     "varieties": [],
+     "image": "2020/12/Red.jpg",
+     "season_icon": "2020/12/product2-Recovered-02-1.png",
+     "packaging": [
+      {
+       "title": "Mesh Bags (Net Weight 10 Kgs)",
+       "icon": "2020/11/jhf-Recovered-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Mesh Bags/Pallet",
+         "value": "135",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Mesh Bags (Net Weight 25 Kgs)",
+       "icon": "2020/11/jhf-Recovered-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Mesh Bags/Pallet",
+         "value": "55",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "Red",
+       "months": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+       ]
+      }
+     ],
+     "spec_label": "Counts",
+     "spec_values": [
+      "40-60",
+      "60-80",
+      "80-100",
+      "50-70",
+      "70-90",
+      "90-110"
+     ]
+    },
+    {
+     "wp_id": 1700,
+     "slug": "white",
+     "name": "White Onion",
+     "sort": 2,
+     "hero": "2021/01/oh.jpg",
+     "card": "2021/01/OW.jpg",
+     "meta_title": "White Onion - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+     "kind": "product",
+     "subtitle": "White",
+     "description": "Is a type of dry onion that has a pure white skin and a sweet mild white flesh",
+     "varieties": [],
+     "image": "2020/10/White.jpg",
+     "season_icon": "2020/12/product2-Recovered-02-1.png",
+     "packaging": [
+      {
+       "title": "Mesh Bags (Net Weight 10 Kgs)",
+       "icon": "2020/11/jhf-Recovered-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Bags/Pallet",
+         "value": "135",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Mesh Bags (Net Weight 25 Kgs)",
+       "icon": "2020/11/jhf-Recovered-03.png",
+       "specs": [
+        {
+         "label": "No. of Pallets/Container",
+         "value": "20",
+         "icon": "2020/10/opened-packaged-02.png"
+        },
+        {
+         "label": "No. of Bags/Pallet",
+         "value": "55",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "White",
+       "months": [
+        5,
+        7
+       ]
+      }
+     ],
+     "spec_label": "Counts",
+     "spec_values": [
+      "40-60",
+      "60-80",
+      "80-100",
+      "50-70",
+      "70-90",
+      "90-110"
+     ]
+    }
+   ]
+  },
+  {
+   "wp_id": 2037,
+   "slug": "fresh-garlic",
+   "name": "Garlic",
+   "sort": 5,
+   "hero": "2021/01/image2-6-1.jpg",
+   "card": "2021/01/g1.jpg",
+   "meta_title": "Garlic - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "meta_description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "kind": "category",
+   "children": [
+    {
+     "wp_id": 2350,
+     "slug": "white",
+     "name": "White Garlic",
+     "sort": 0,
+     "hero": "2021/01/image2-6-1.jpg",
+     "card": "2021/01/g1.jpg",
+     "meta_title": "White Garlic - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "White Garlic Produces large bulbs with approx. 10-15 cloves per bulb. The bulb is covered in bright white papery skins...",
+     "kind": "product",
+     "subtitle": "White",
+     "description": "Produces large bulbs with approx. 10-15 cloves per bulb. The bulb is covered in bright white papery skins.",
+     "varieties": [],
+     "image": "2021/01/g1.jpg",
+     "season_icon": "2020/12/product2-Recovered-06-1.png",
+     "packaging": [
+      {
+       "title": "In plastic box (Net Weight 10 Kgs)",
+       "icon": "2020/12/plasticBox.png",
+       "specs": [
+        {
+         "label": "No. of Plastic Box/Pallet",
+         "value": "100",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Pasket (Net Weight 5 Kgs)",
+       "icon": "2021/01/Pasket-01-1.png",
+       "specs": [
+        {
+         "label": "No. of Pasket/Pallet",
+         "value": "200",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Mesh Bags(Net Weight5 Kgs)",
+       "icon": "2020/11/jhf-Recovered-03.png",
+       "specs": [
+        {
+         "label": "No. of Mesh Bags/Pallet",
+         "value": "170",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "White",
+       "months": [
+        4,
+        5
+       ]
+      }
+     ],
+     "spec_label": "Size",
+     "spec_values": [
+      "50 mm+"
+     ]
+    },
+    {
+     "wp_id": 2330,
+     "slug": "red",
+     "name": "Red Garlic",
+     "sort": 1,
+     "hero": "2021/01/image2-6-1.jpg",
+     "card": "2021/01/GR-1.jpg",
+     "meta_title": "Red Garlic - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+     "meta_description": "Red Onion Produces medium to large bulbs with approx. 7-10 cloves per bulb. The bulb is covered with purple striped papery skins.",
+     "kind": "product",
+     "subtitle": "Red",
+     "description": "Produces medium to large bulbs with approx. 7-10 cloves per bulb. The bulb is covered with purple striped papery skins.",
+     "varieties": [],
+     "image": "2021/01/GR-1.jpg",
+     "season_icon": "2020/12/product2-Recovered-06-1.png",
+     "packaging": [
+      {
+       "title": "Plastic Box(Net Weight 10 Kgs)",
+       "icon": "2020/12/plasticBox.png",
+       "specs": [
+        {
+         "label": "No. of Plastic Box/Pallet",
+         "value": "100",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Pasket (Net Weight 5 Kgs)",
+       "icon": "2021/01/Pasket-01.png",
+       "specs": [
+        {
+         "label": "No. of Pasket/Pallet",
+         "value": "200",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      },
+      {
+       "title": "Mesh Bags(Net Weight5 Kgs)",
+       "icon": "2020/11/jhf-Recovered-03.png",
+       "specs": [
+        {
+         "label": "No. of Mesh Bags/Pallet",
+         "value": "170",
+         "icon": "2020/10/opened-packaged-04.png"
+        }
+       ]
+      }
+     ],
+     "seasons": [
+      {
+       "label": "Red",
+       "months": [
+        4,
+        5
+       ]
+      }
+     ],
+     "spec_label": "Size",
+     "spec_values": [
+      "50 mm+"
+     ]
+    }
+   ]
+  }
+ ],
+ "certificates": [
+  {
+   "title": "BRC Global Standards",
+   "image": "2025/03/BRC-Logo.png"
+  },
+  {
+   "title": "ISO 22000:2005",
+   "image": "2021/02/ISO-Logo-22000-2005-2-01-300x300-1.png"
+  },
+  {
+   "title": "GLOBALG.A.P.",
+   "image": "2020/08/GAP-1.png"
+  }
+ ],
+ "legacy_paths": {
+  "/shipping-markets/": "wp:15666",
+  "/syc/": "wp:15493",
+  "/careers/": "wp:4460",
+  "/gallery/garlic/": "wp:3180",
+  "/gallery/mango/": "wp:3178",
+  "/gallery/grapes/": "wp:3146",
+  "/gallery/onions/": "wp:3135",
+  "/gallery/pomegranate/": "wp:3124",
+  "/gallery/citrus/": "wp:3110",
+  "/gallery/pack-house/": "wp:3100",
+  "/gallery/": "wp:3098",
+  "/our-products/grapes/black-grapes/": "wp:2950",
+  "/markets/": "wp:2778",
+  "/our-products/citrus/mandarine-2/": "wp:2490",
+  "/our-products/citrus/grapefruit-2/": "wp:2483",
+  "/our-products/fresh-garlic/white/": "wp:2350",
+  "/our-products/fresh-garlic/red/": "wp:2330",
+  "/our-products/fresh-garlic/": "wp:2037",
+  "/our-products/mango/": "wp:2023",
+  "/brands/": "wp:1751",
+  "/our-products/pomegranate/": "wp:1745",
+  "/our-products/grapes/crimson/": "wp:1740",
+  "/our-products/grapes/red-globe/": "wp:1734",
+  "/our-products/grapes/flame/": "wp:1720",
+  "/our-products/grapes/sugraone/": "wp:1711",
+  "/our-products/grapes/": "wp:1706",
+  "/our-products/onions/white/": "wp:1700",
+  "/our-products/onions/red/": "wp:1693",
+  "/our-products/onions/yellow/": "wp:1685",
+  "/our-products/onions/": "wp:1682",
+  "/our-products/citrus/orange/baladi/": "wp:1677",
+  "/our-products/citrus/orange/valencia/": "wp:1671",
+  "/our-products/citrus/orange/navel/": "wp:1665",
+  "/our-products/citrus/lemon/": "wp:1658",
+  "/our-products/citrus/orange/": "wp:1654",
+  "/our-products/citrus/": "wp:1647",
+  "/our-products/": "wp:1637",
+  "/contact-us/": "wp:636",
+  "/about-us/": "wp:322",
+  "/": "wp:1558"
+ }
+}

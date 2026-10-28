@@ -1,0 +1,249 @@
+{
+ "id": 3180,
+ "slug": "garlic",
+ "url": "https://agroegypt.com/gallery/garlic/",
+ "parent": 3098,
+ "menu_order": 0,
+ "wp_title": "Garlic Gallery",
+ "head": {
+  "title": "Garlic Gallery - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "fresh fruit and vegetables",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Garlic Gallery",
+ "breadcrumbs": [
+  "Home",
+  "Gallery",
+  "Garlic Gallery"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/01/image2-6-1.jpg"
+ ],
+ "sections": [
+  {
+   "id": "46ad383",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-46ad383",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "image-gallery",
+     "id": "434863b",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-22.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-21.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-20.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-19.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-18.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-17.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-101.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-37.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-36.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-35.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-34.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-33.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-32.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-31.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-30.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-29.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-28.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-27.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-25.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      },
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/1-26.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-22.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-21.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-20.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-19.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-18.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-17.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-101.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-37.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-36.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-35.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-34.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-33.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-32.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-31.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-30.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-29.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-28.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-27.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-25.jpeg",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2021/01/1-26.jpeg",
+       "text": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

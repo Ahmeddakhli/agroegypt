@@ -1,0 +1,210 @@
+@import 'tailwindcss';
+
+@import '@fontsource/heebo/latin-300.css';
+@import '@fontsource/heebo/latin-400.css';
+@import '@fontsource/heebo/latin-500.css';
+@import '@fontsource/heebo/latin-700.css';
+@import '@fontsource/heebo/latin-800.css';
+@import '@fontsource/cairo/arabic-400.css';
+@import '@fontsource/cairo/arabic-600.css';
+@import '@fontsource/cairo/arabic-700.css';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+
+/*
+ * Design tokens measured from agroegypt.com (docs/audit/AUDIT.md §5).
+ * Colours/radius/spacing are CSS variables so the admin Theme settings can override them at runtime
+ * (the layout prints a validated :root block); Tailwind utilities read the variables via @theme inline.
+ */
+:root {
+    --c-dark: #182719;
+    --c-dark-2: #2d3c2e;
+    --c-deep: #121c10;
+    --c-active: #223a22;
+    --c-primary: #789915;
+    --c-primary-hover: #63800f;
+    --c-orange: #eaa84e;
+    --c-olive: #858533;
+    --c-heading-alt: #323b43;
+    --c-muted: #858585;
+    --c-body-bg: #ffffff;
+    --shadow-card: 0 0 60px rgba(0, 0, 0, 0.12);
+    --c-text: #182719;
+    --radius-card: 6px;
+    --section-space: 1;
+    --font-latin: 'Heebo';
+    --font-arabic: 'Cairo';
+}
+
+@theme inline {
+    --color-dark: var(--c-dark);
+    --color-dark-2: var(--c-dark-2);
+    --color-deep: var(--c-deep);
+    --color-active: var(--c-active);
+    --color-primary: var(--c-primary);
+    --color-primary-hover: var(--c-primary-hover);
+    --color-orange: var(--c-orange);
+    --color-olive: var(--c-olive);
+    --color-heading-alt: var(--c-heading-alt);
+    --color-muted: var(--c-muted);
+    --color-facebook: #3b5998;
+    --color-instagram: #c13584;
+    --color-linkedin: #0077b5;
+    --color-youtube: #cd201f;
+    --radius-card: var(--radius-card);
+    --font-sans: var(--font-latin), var(--font-arabic), ui-sans-serif, system-ui, sans-serif;
+}
+
+@theme {
+    --container-site: 1170px;
+    --breakpoint-nav: 1200px;
+    --text-hero: 95px;
+    --text-hero--line-height: 1.2;
+    --text-display: 75px;
+    --text-display--line-height: 1.2;
+    --animate-hang: hang-sink 0.3s ease-out forwards, hang 1.5s 0.3s ease-in-out infinite alternate;
+}
+
+@keyframes hang-sink {
+    to { transform: translateY(8px); }
+}
+
+@keyframes hang {
+    from { transform: translateY(8px); }
+    to { transform: translateY(4px); }
+}
+
+@layer base {
+    html {
+        scroll-behavior: smooth;
+    }
+
+    html[dir='rtl'] {
+        --font-sans: var(--font-arabic), var(--font-latin), ui-sans-serif, system-ui, sans-serif;
+        font-family: var(--font-arabic), var(--font-latin), ui-sans-serif, system-ui, sans-serif;
+    }
+
+    body {
+        @apply font-sans text-[18px] leading-[30px] text-dark antialiased;
+        background-color: var(--c-body-bg);
+    }
+
+    h1, h2, h3, h4 {
+        @apply font-bold;
+    }
+
+    [x-cloak] {
+        display: none !important;
+    }
+
+    :focus-visible {
+        outline: 2px solid var(--c-orange);
+        outline-offset: 2px;
+    }
+}
+
+@layer components {
+    .container-site {
+        @apply mx-auto w-full max-w-site px-4;
+    }
+
+    .section-y {
+        padding-block: calc(80px * var(--section-space));
+    }
+
+    @media (max-width: 767px) {
+        .section-y {
+            padding-block: calc(50px * var(--section-space));
+        }
+    }
+
+    .heading-display {
+        @apply text-[40px] leading-[1.2] font-bold md:text-display;
+    }
+
+    .btn-primary {
+        @apply inline-flex items-center justify-center bg-primary px-8 py-3.5 text-[16px] leading-[23px] font-bold text-white uppercase transition-colors duration-200 hover:bg-primary-hover;
+    }
+
+    .hover-hang:hover,
+    .hover-hang:focus-visible {
+        animation: var(--animate-hang);
+    }
+
+    /* Bottom-border inputs used by the contact and careers forms. */
+    .field {
+        @apply block w-full border-0 border-b border-white/15 bg-transparent px-2 py-3 text-[16px] text-white placeholder:text-white focus:border-orange focus:ring-0 focus:outline-none;
+    }
+
+    .prose-site p {
+        @apply mb-4 last:mb-0;
+    }
+
+    .prose-site a {
+        @apply text-primary underline;
+    }
+
+    .prose-site ul {
+        @apply mb-4 list-disc ps-6;
+    }
+
+    .prose-site h3 {
+        @apply mb-2 text-[24px] leading-[34px];
+    }
+}
+
+/* Scroll-triggered entrance (Elementor fadeIn on the reference). Content stays visible without JS. */
+.js [data-reveal] {
+    opacity: 0;
+    transition: opacity 1.25s ease, transform 1.25s ease;
+}
+
+.js [data-reveal='slide'] {
+    transform: translateY(30px);
+}
+
+.js [data-reveal='zoom'] {
+    transform: scale(0.9);
+}
+
+.js [data-reveal].is-revealed {
+    opacity: 1;
+    transform: none;
+}
+
+.js [data-progress] {
+    transition: width 1.5s ease;
+}
+
+.js [data-progress]:not(.is-revealed) {
+    width: 0 !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+
+    *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+
+    .js [data-reveal] {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+html.no-animations [data-reveal] {
+    opacity: 1 !important;
+    transform: none !important;
+}
+
+html.no-hover-effects .hover-hang:hover,
+html.no-hover-effects .hover-hang:focus-visible,
+html.no-animations .hover-hang:hover {
+    animation: none;
+}

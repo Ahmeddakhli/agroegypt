@@ -1,0 +1,123 @@
+[
+ {
+  "sel": "body",
+  "font": "Heebo",
+  "size": "18px",
+  "weight": "400",
+  "lh": "30px",
+  "color": "rgb(24, 39, 25)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": "h1",
+  "font": "Heebo",
+  "size": "95px",
+  "weight": "700",
+  "lh": "114px",
+  "color": "rgb(255, 255, 255)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": "h3",
+  "font": "Heebo",
+  "size": "24px",
+  "weight": "700",
+  "lh": "36px",
+  "color": "rgb(255, 255, 255)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": "p",
+  "font": "Heebo",
+  "size": "16px",
+  "weight": "400",
+  "lh": "28px",
+  "color": "rgb(255, 255, 255)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": "a",
+  "font": "Heebo",
+  "size": "18px",
+  "weight": "400",
+  "lh": "30px",
+  "color": "rgb(24, 39, 25)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": ".gt3_header_builder",
+  "font": "Heebo",
+  "size": "18px",
+  "weight": "400",
+  "lh": "30px",
+  "color": "rgb(24, 39, 25)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": ".main-menu > ul > li > a",
+  "font": "Heebo",
+  "size": "18px",
+  "weight": "400",
+  "lh": "90px",
+  "color": "rgb(24, 39, 25)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": "nav a",
+  "font": "Heebo",
+  "size": "18px",
+  "weight": "400",
+  "lh": "90px",
+  "color": "rgb(24, 39, 25)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": "footer",
+  "font": "Heebo",
+  "size": "18px",
+  "weight": "400",
+  "lh": "30px",
+  "color": "rgb(24, 39, 25)",
+  "bg": "rgb(24, 39, 25)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": ".gt3-page-title",
+  "font": "Heebo",
+  "size": "18px",
+  "weight": "400",
+  "lh": "30px",
+  "color": "rgb(255, 255, 255)",
+  "bg": "rgb(24, 39, 25)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": "input",
+  "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans, Ubuntu, Cantarell, Arial, \"Helvetica Neue\", sans-serif",
+  "size": "16px",
+  "weight": "400",
+  "lh": "48px",
+  "color": "rgb(50, 59, 67)",
+  "bg": "rgb(255, 255, 255)",
+  "ls": "normal",
+  "tt": "none"
+ }
+]

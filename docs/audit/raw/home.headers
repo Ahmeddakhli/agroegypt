@@ -1,0 +1,13 @@
+HTTP/2 200 
+x-dns-prefetch-control: on
+content-type: text/html; charset=UTF-8
+link: <https://agroegypt.com/wp-json/>; rel="https://api.w.org/"
+link: <https://agroegypt.com/wp-json/wp/v2/pages/1558>; rel="alternate"; title="JSON"; type="application/json"
+link: <https://agroegypt.com/>; rel=shortlink
+etag: "2107-1790889754;;;"
+x-litespeed-cache: hit
+date: Fri, 02 Oct 2026 18:49:57 GMT
+server: LiteSpeed
+vary: User-Agent,User-Agent
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000
+

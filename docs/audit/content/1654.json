@@ -1,0 +1,140 @@
+{
+ "id": 1654,
+ "slug": "orange",
+ "url": "https://agroegypt.com/our-products/citrus/orange/",
+ "parent": 1647,
+ "menu_order": 0,
+ "wp_title": "Oranges",
+ "head": {
+  "title": "Oranges - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Oranges",
+ "breadcrumbs": [
+  "Home",
+  "Our Products",
+  "Citrus",
+  "Oranges"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/01/image-6-copy.jpg"
+ ],
+ "sections": [
+  {
+   "id": "a3269fa",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-a3269fa",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "37ed788",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-37ed788",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "aa20dbc",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-aa20dbc",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "image",
+     "id": "14ba520",
+     "text": "Navels",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/o2.jpg",
+       "alt": "Oranges Fresh Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/citrus/orange/navel",
+       "text": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "6d22fa0",
+     "text": "Valencia",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/o1.jpg",
+       "alt": "Valencia Oranges Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/citrus/orange/valencia",
+       "text": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "bd550b8",
+     "text": "Baladi",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/o3.jpg",
+       "alt": "Baladi Oranges Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/citrus/orange/baladi",
+       "text": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a646144",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-a646144",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  }
+ ]
+}

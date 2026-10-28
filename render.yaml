@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: agroegypt
+    runtime: docker
+    plan: free
+    region: frankfurt
+    branch: main
+    healthCheckPath: /up
+    envVars:
+      - key: APP_KEY
+        sync: false
+      - key: APP_URL
+        sync: false
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false

@@ -1,0 +1,393 @@
+{
+ "id": 1700,
+ "slug": "white",
+ "url": "https://agroegypt.com/our-products/onions/white/",
+ "parent": 1682,
+ "menu_order": 0,
+ "wp_title": "White Onion",
+ "head": {
+  "title": "White Onion - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "White Onion",
+ "breadcrumbs": [
+  "Home",
+  "Our Products",
+  "Onions",
+  "White Onion"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/01/oh.jpg"
+ ],
+ "sections": [
+  {
+   "id": "a3269fa",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-a3269fa",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "37ed788",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-37ed788",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "1211f985",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-1211f985",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "756ce118",
+     "text": "White Is a type of dry onion that has a pure white skin and a sweet mild white flesh",
+     "html": "<h3><span>White</span></h3><p>Is a type of dry onion that has a pure white skin and a sweet mild white flesh</p><h3><span style=\"font-size: 18px; font-weight: 400;\"><span> </span></span></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "2bd2ae57",
+     "text": "Packaging",
+     "html": "<h3>Packaging</h3>"
+    },
+    {
+     "type": "image",
+     "id": "4cf4f78a",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/11/jhf-Recovered-03.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "6c956b1a",
+     "text": "Mesh Bags (Net Weight 10 Kgs)",
+     "html": "<p style=\"text-align: center;\"><b>Mesh Bags (Net Weight 10 Kgs)</b></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "4e81c24d",
+     "text": "No. of Pallets/Container",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Pallets/Container</span></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "542d5e6d",
+     "text": "No. of Bags/Pallet",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Bags/Pallet</span></p>"
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "114313a8",
+     "text": "20",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02.png",
+       "alt": "20",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "40aaf010",
+     "text": "135",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04.png",
+       "alt": "135",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "3676dbbc",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/11/jhf-Recovered-03.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "10984d0e",
+     "text": "Mesh Bags (Net Weight 25 Kgs)",
+     "html": "<p style=\"text-align: center;\"><b>Mesh Bags (Net Weight 25 Kgs)</b><br/></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "21db527b",
+     "text": "No. of Pallets/Container",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Pallets/Container</span></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "4c8e63da",
+     "text": "No. of Bags/Pallet",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Bags/Pallet</span></p>"
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "7422df08",
+     "text": "20",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02.png",
+       "alt": "20",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "371a5b4d",
+     "text": "55",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04.png",
+       "alt": "55",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "5d2b14e4",
+     "text": "Seasonality",
+     "html": "<h3>Seasonality</h3>"
+    },
+    {
+     "type": "image",
+     "id": "61c9437",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/White.jpg",
+       "alt": "White onion Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "584edc7b",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-584edc7b",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "725a700",
+     "text": "White",
+     "html": "<h3><strong><span style=\"color: #eaa84e;\"><span><b>White</b><br/></span></span></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "51d53aaa",
+     "text": "MAY",
+     "html": "<p style=\"text-align: center;\">MAY</p>"
+    },
+    {
+     "type": "image",
+     "id": "523a4b32",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "1b74e54f",
+     "text": "JUL",
+     "html": "<p style=\"text-align: center;\">JUL</p>"
+    },
+    {
+     "type": "image",
+     "id": "157cf12a",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "320fdf30",
+     "text": "JUL",
+     "html": "<p style=\"text-align: center;\">JUL</p>"
+    },
+    {
+     "type": "image",
+     "id": "51350e17",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7ab7547",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-7ab7547",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "46b44ff4",
+     "text": "Counts",
+     "html": "<h3><strong>Counts<br/></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "2a3cf248",
+     "text": "40-60",
+     "html": "<p style=\"text-align: center; color: #182719;\">40-60</p>"
+    },
+    {
+     "type": "icon",
+     "id": "24a11f32",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "607612fc",
+     "text": "60-80",
+     "html": "<p style=\"text-align: center; color: #182719;\">60-80</p>"
+    },
+    {
+     "type": "icon",
+     "id": "726eb888",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "1c8322a7",
+     "text": "80-100",
+     "html": "<p style=\"text-align: center; color: #182719;\">80-100</p>"
+    },
+    {
+     "type": "icon",
+     "id": "4dd17848",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "2a2f4a4",
+     "text": "50-70",
+     "html": "<p style=\"text-align: center; color: #182719;\">50-70</p>"
+    },
+    {
+     "type": "icon",
+     "id": "9d86ff",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "7293a832",
+     "text": "70-90",
+     "html": "<p style=\"text-align: center; color: #182719;\">70-90</p>"
+    },
+    {
+     "type": "icon",
+     "id": "a673448",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "60d4fb3c",
+     "text": "90-110",
+     "html": "<p style=\"text-align: center; color: #182719;\">90-110</p>"
+    },
+    {
+     "type": "icon",
+     "id": "1f3c62c4",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": "89cda2f",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-89cda2f",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  }
+ ]
+}

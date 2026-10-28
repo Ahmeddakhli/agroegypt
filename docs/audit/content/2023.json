@@ -1,0 +1,720 @@
+{
+ "id": 2023,
+ "slug": "mango",
+ "url": "https://agroegypt.com/our-products/mango/",
+ "parent": 1637,
+ "menu_order": 0,
+ "wp_title": "Mango",
+ "head": {
+  "title": "Mango - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Mango",
+ "breadcrumbs": [
+  "Home",
+  "Our Products",
+  "Mango"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/01/mh.jpg"
+ ],
+ "sections": [
+  {
+   "id": "a3269fa",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-a3269fa",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "37ed788",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-37ed788",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "7ba1339b",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-7ba1339b",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "3935494b",
+     "text": "Mango It’s an oval shaped fruit that is from the cashew family, it has many varieties That ranges in the level of sweetness and their buttery flesh. Mango sizes vary from 5 to 15 cm in length and from 4 to 10 cm in width and weights from 150 grams to 750 grams per fruit. Some of the most popular mango varieties are; Keitt, Kent, Naomi, and Tommy Atkins",
+     "html": "<h3><span><b>Mango</b><br/></span></h3><h3><span style=\"font-size: 18px; font-weight: 400;\"><span> It’s an oval shaped fruit that is from the cashew family, it has many varieties That ranges in the level of sweetness and their buttery flesh. Mango sizes vary from 5 to 15 cm in length and from 4 to 10 cm in width and weights from 150 grams to 750 grams per fruit. Some of the most popular mango varieties are; Keitt, Kent, Naomi, and Tommy Atkins<br/></span></span></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "16013eef",
+     "text": "Variety",
+     "html": "<h3>Variety</h3>"
+    },
+    {
+     "type": "icon-list",
+     "id": "54c9ddc",
+     "text": "Heidy Mango Tommy Atkins Naomi Mango Keitt Mango Kent Mango R2"
+    },
+    {
+     "type": "text-editor",
+     "id": "32f4f196",
+     "text": "Packaging",
+     "html": "<h3>Packaging</h3>"
+    },
+    {
+     "type": "image",
+     "id": "3064d932",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "4597e184",
+     "text": "Open Top Carton (Net Weight 6 Kgs)",
+     "html": "<p style=\"text-align: center;\"><strong> <span><b>Open Top Carton (Net Weight 6 Kgs)</b><br/></span></strong></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "4ebf90f4",
+     "text": "No. of Pallets/Container",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Pallets/Container</span></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "43210c0a",
+     "text": "No. of Cartons/Pallet",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Cartons/Pallet</span></p>"
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "28370d4",
+     "text": "20",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02.png",
+       "alt": "20",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "4c989d29",
+     "text": "140",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04.png",
+       "alt": "140",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "be52777",
+     "text": "Seasonality",
+     "html": "<h3>Seasonality</h3>"
+    },
+    {
+     "type": "image",
+     "id": "374f418b",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/MP.jpg",
+       "alt": "Mango Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "294"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "335764b9",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-335764b9",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "310e7222",
+     "text": "Heidy Mango",
+     "html": "<h3><strong><span style=\"color: #eaa84e;\"><span><b>Heidy Mango</b><br/></span></span></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "75252659",
+     "text": "AUG",
+     "html": "<p style=\"text-align: center;\">AUG</p>"
+    },
+    {
+     "type": "image",
+     "id": "1a4a6155",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "19e9972c",
+     "text": "SEP",
+     "html": "<p style=\"text-align: center;\">SEP</p>"
+    },
+    {
+     "type": "image",
+     "id": "182602bd",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "19e72437",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-19e72437",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "414787d9",
+     "text": "Keitt Mango",
+     "html": "<h3><strong><span style=\"color: #eaa84e;\"><span><b>Keitt Mango</b><br/></span></span></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "1e46568a",
+     "text": "AUG",
+     "html": "<p style=\"text-align: center;\">AUG</p>"
+    },
+    {
+     "type": "image",
+     "id": "1947d8b4",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "670c5207",
+     "text": "SEP",
+     "html": "<p style=\"text-align: center;\">SEP</p>"
+    },
+    {
+     "type": "image",
+     "id": "1b709dbd",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "8d34471",
+     "text": "OCT",
+     "html": "<p style=\"text-align: center;\">OCT</p>"
+    },
+    {
+     "type": "image",
+     "id": "863da11",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "101d7f1",
+     "text": "NOV",
+     "html": "<p style=\"text-align: center;\">NOV</p>"
+    },
+    {
+     "type": "image",
+     "id": "c0893e2",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "98da64f",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-98da64f",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "2e97b00f",
+     "text": "Kent Mango",
+     "html": "<h3><strong><span style=\"color: #eaa84e;\"><span><b>Kent Mango</b><br/></span></span></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "8a42bb7",
+     "text": "AUG",
+     "html": "<p style=\"text-align: center;\">AUG</p>"
+    },
+    {
+     "type": "image",
+     "id": "9abce40",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "ac7fddb",
+     "text": "SEP",
+     "html": "<p style=\"text-align: center;\">SEP</p>"
+    },
+    {
+     "type": "image",
+     "id": "d54adda",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7acbbfbf",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-7acbbfbf",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "d15ae3a",
+     "text": "Naomi Mango",
+     "html": "<h3><strong><span style=\"color: #eaa84e;\"><span><b>Naomi Mango</b><br/></span></span></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "67de071b",
+     "text": "July",
+     "html": "<p style=\"text-align: center;\">July</p>"
+    },
+    {
+     "type": "image",
+     "id": "5c6b482c",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "2cd1913",
+     "text": "AUG",
+     "html": "<p style=\"text-align: center;\">AUG</p>"
+    },
+    {
+     "type": "image",
+     "id": "3ca8d85e",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "09761e0",
+     "text": "SEP",
+     "html": "<p style=\"text-align: center;\">SEP</p>"
+    },
+    {
+     "type": "image",
+     "id": "99e8377",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f8934e6",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-f8934e6",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "8cc09bd",
+     "text": "R2",
+     "html": "<h3><strong><span style=\"color: #eaa84e;\"><span><b>R2</b><br/></span></span></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "db02d1b",
+     "text": "AUG",
+     "html": "<p style=\"text-align: center;\">AUG</p>"
+    },
+    {
+     "type": "image",
+     "id": "af0d552",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "822b13a",
+     "text": "SEP",
+     "html": "<p style=\"text-align: center;\">SEP</p>"
+    },
+    {
+     "type": "image",
+     "id": "cb97fe2",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4a25710",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-4a25710",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "9f4a182",
+     "text": "Tommy Atkins",
+     "html": "<h3><strong><span style=\"color: #eaa84e;\"><span><b>Tommy Atkins</b><br/></span></span></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "5ce0edb",
+     "text": "July",
+     "html": "<p style=\"text-align: center;\">July</p>"
+    },
+    {
+     "type": "image",
+     "id": "9b7e14c",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "9b956d3",
+     "text": "AUG",
+     "html": "<p style=\"text-align: center;\">AUG</p>"
+    },
+    {
+     "type": "image",
+     "id": "77407bc",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "527e31b",
+     "text": "SEP",
+     "html": "<p style=\"text-align: center;\">SEP</p>"
+    },
+    {
+     "type": "image",
+     "id": "35f2a29",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "42b5915",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-42b5915",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "6993c1e8",
+     "text": "Counts",
+     "html": "<h3><strong>Counts<br/></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "253e00ea",
+     "text": "8",
+     "html": "<p style=\"text-align: center; color: #182719;\">8</p>"
+    },
+    {
+     "type": "icon",
+     "id": "383897b",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "6b07484a",
+     "text": "9",
+     "html": "<p style=\"text-align: center; color: #182719;\">9</p>"
+    },
+    {
+     "type": "icon",
+     "id": "8c98b03",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "28f41e40",
+     "text": "10",
+     "html": "<p style=\"text-align: center; color: #182719;\">10</p>"
+    },
+    {
+     "type": "icon",
+     "id": "60db20f",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "725b5149",
+     "text": "11",
+     "html": "<p style=\"text-align: center; color: #182719;\">11</p>"
+    },
+    {
+     "type": "icon",
+     "id": "a789587",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "36c7e064",
+     "text": "12",
+     "html": "<p style=\"text-align: center; color: #182719;\">12</p>"
+    },
+    {
+     "type": "icon",
+     "id": "2c99672",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "494f5883",
+     "text": "13",
+     "html": "<p style=\"text-align: center; color: #182719;\">13</p>"
+    },
+    {
+     "type": "icon",
+     "id": "96d661b",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "381b451a",
+     "text": "14",
+     "html": "<p style=\"text-align: center; color: #182719;\">14</p>"
+    },
+    {
+     "type": "icon",
+     "id": "7218651",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "578f1169",
+     "text": "15",
+     "html": "<p style=\"text-align: center; color: #182719;\">15</p>"
+    },
+    {
+     "type": "icon",
+     "id": "1c88fc5",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": "33d878ab",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-33d878ab",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  }
+ ]
+}

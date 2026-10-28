@@ -1,0 +1,106 @@
+{
+ "id": 2037,
+ "slug": "fresh-garlic",
+ "url": "https://agroegypt.com/our-products/fresh-garlic/",
+ "parent": 1637,
+ "menu_order": 0,
+ "wp_title": "Garlic",
+ "head": {
+  "title": "Garlic - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Garlic",
+ "breadcrumbs": [
+  "Home",
+  "Our Products",
+  "Garlic"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/01/image2-6-1.jpg"
+ ],
+ "sections": [
+  {
+   "id": "37ed788",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-37ed788",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "aa20dbc",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-aa20dbc",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "image",
+     "id": "bd550b8",
+     "text": "White",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/g1.jpg",
+       "alt": "Garlic White Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "294"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/fresh-garlic/white",
+       "text": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "14ba520",
+     "text": "Red",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/GR-1.jpg",
+       "alt": "Garlic Red Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/fresh-garlic/red",
+       "text": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a646144",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-a646144",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  }
+ ]
+}

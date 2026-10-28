@@ -1,0 +1,57 @@
+[
+ {
+  "sel": "body",
+  "font": "Heebo",
+  "size": "18px",
+  "weight": "400",
+  "lh": "30px",
+  "color": "rgb(24, 39, 25)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": "p",
+  "font": "Heebo",
+  "size": "18px",
+  "weight": "400",
+  "lh": "30px",
+  "color": "rgb(24, 39, 25)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": "a",
+  "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans, Ubuntu, Cantarell, Arial, \"Helvetica Neue\", sans-serif",
+  "size": "16px",
+  "weight": "400",
+  "lh": "52px",
+  "color": "rgb(255, 255, 255)",
+  "bg": "rgb(59, 89, 152)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": "input",
+  "font": "Arial",
+  "size": "13.3333px",
+  "weight": "400",
+  "lh": "normal",
+  "color": "rgb(0, 0, 0)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "ls": "normal",
+  "tt": "none"
+ },
+ {
+  "sel": "input[type=submit]",
+  "font": "Heebo",
+  "size": "16px",
+  "weight": "500",
+  "lh": "23px",
+  "color": "rgb(255, 255, 255)",
+  "bg": "rgb(120, 153, 21)",
+  "ls": "normal",
+  "tt": "uppercase"
+ }
+]

@@ -1,0 +1,144 @@
+{
+ "id": 1647,
+ "slug": "citrus",
+ "url": "https://agroegypt.com/our-products/citrus/",
+ "parent": 1637,
+ "menu_order": 0,
+ "wp_title": "Citrus",
+ "head": {
+  "title": "Citrus - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Citrus",
+ "breadcrumbs": [
+  "Home",
+  "Our Products",
+  "Citrus"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2020/12/citruse-1.jpg"
+ ],
+ "sections": [
+  {
+   "id": "a3269fa",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-a3269fa",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "aa20dbc",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-aa20dbc",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "image",
+     "id": "14ba520",
+     "text": "Oranges",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/c1.jpg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/citrus/orange/",
+       "text": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "bd550b8",
+     "text": "Lemons",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/c2.jpg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/citrus/lemon",
+       "text": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "c82a320",
+     "text": "Grapefruit",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/c3.jpg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/citrus/grapefruit-2",
+       "text": ""
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "fb8c4a9",
+     "text": "Mandarins",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/c4.jpg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/citrus/mandarine-2",
+       "text": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a646144",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-a646144",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  }
+ ]
+}

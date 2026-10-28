@@ -1,0 +1,209 @@
+{
+ "id": 2778,
+ "slug": "markets",
+ "url": "https://agroegypt.com/markets/",
+ "parent": 0,
+ "menu_order": 0,
+ "wp_title": "Shipping & Markets",
+ "head": {
+  "title": "Shipping & Markets - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "We have been present in the local and international market in the past 45 years handling exports of fresh fruits and vegetables...",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Shipping & Markets",
+ "breadcrumbs": [],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/01/hs12.jpg"
+ ],
+ "sections": [
+  {
+   "id": "fa91815",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-fa91815",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "ec86447",
+     "text": "Shipping",
+     "html": "<p><b>Shipping</b></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "d55076e",
+     "text": "Shipping good taste anywhere in the world. We partnered with the top shipping companies to provide you with the fastest and most reliable shipping experience. Our fruits and vegetables will be well packed and sorted to maintain its shelf-life when it arrives to your storage.",
+     "html": "<p>Shipping good taste anywhere in the world.<br/>We partnered with the top shipping companies to provide you with the fastest and most reliable shipping experience. Our fruits and vegetables will be well packed and sorted to maintain its shelf-life when it arrives to your storage.</p>"
+    },
+    {
+     "type": "slides",
+     "id": "0f51b51",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": "cdb4c67",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-cdb4c67",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "0a8bac3",
+     "text": "Markets",
+     "html": "<h2><strong>Markets</strong></h2>"
+    },
+    {
+     "type": "text-editor",
+     "id": "142213c",
+     "text": "We have been present in the local and international market in the past 45 years handling exports of fresh fruits and vegetables; we achieved the highest standards of customer satisfaction and reliability by exporting the finest agricultural food to provide the world with a good taste of Egypt directly from its local farms at competitive prices.",
+     "html": "<p>We have been present in the local and international market in the past 45 years handling exports of fresh fruits and vegetables; we achieved the highest standards of customer satisfaction and reliability by exporting the finest agricultural food to provide the world with a good taste of Egypt directly from its local farms at competitive prices.</p><p> </p>"
+    }
+   ]
+  },
+  {
+   "id": "67215be",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-67215be",
+    "elementor-section-full_width",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": [
+    {
+     "type": "image",
+     "id": "4bd7973",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2024/11/markets-copy.png",
+       "alt": "Agro Egypt Markets Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "8000",
+       "h": "3871"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "57ea813",
+   "classes": [
+    "elementor-element",
+    "elementor-element-57ea813",
+    "e-flex",
+    "e-con-boxed",
+    "e-con",
+    "e-parent"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "a6f2ab5",
+     "text": "Western Europe : Spain Italy Netherlands England France Germany Slovenia",
+     "html": "<strong>Western Europe :</strong><ul class=\"-mt-1 [li&gt;&amp;]:mt-2 list-disc space-y-2 pl-8 gt3_styled_list\"><li #eaa950;\"=\"\" class='style=\"color:'>Spain</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\" style=\"color: #eaa950;\"></i>Italy</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\" style=\"color: #eaa950;\"></i>Netherlands</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\" style=\"color: #eaa950;\"></i>England</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\" style=\"color: #eaa950;\"></i>France</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\" style=\"color: #eaa950;\"></i>Germany</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\" style=\"color: #eaa950;\"></i>Slovenia</li></ul>"
+    },
+    {
+     "type": "text-editor",
+     "id": "1c221c2",
+     "text": "Eastern Europe : Russia Ukraine Belarus Latvia Lithuania",
+     "html": "<p><strong>Eastern Europe :</strong></p><ul class=\"-mt-1 [li&gt;&amp;]:mt-2 list-disc space-y-2 pl-8 gt3_styled_list\"><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Russia</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Ukraine</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Belarus</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Latvia</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Lithuania</li></ul>"
+    },
+    {
+     "type": "text-editor",
+     "id": "47e39c9",
+     "text": "East Asia : China Hong Kong Japan Singapore",
+     "html": "<p><strong>East Asia :</strong></p><ul class=\"-mt-1 [li&gt;&amp;]:mt-2 list-disc space-y-2 pl-8 gt3_styled_list\"><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>China</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Hong Kong</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Japan</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Singapore</li></ul>"
+    },
+    {
+     "type": "text-editor",
+     "id": "59bab6a",
+     "text": "Southeast Asia : Malaysia Cambodia Indonesia",
+     "html": "<p><strong>Southeast Asia :</strong></p><ul class=\"-mt-1 [li&gt;&amp;]:mt-2 list-disc space-y-2 pl-8 gt3_styled_list\"><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Malaysia</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Cambodia</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Indonesia</li></ul>"
+    },
+    {
+     "type": "text-editor",
+     "id": "b01003f",
+     "text": "Gulf Region : United Arab Emirates Jordan Kuwait Oman Qatar Bahrain Saudi Arabia",
+     "html": "<p><strong>Gulf Region :</strong></p><ul class=\"-mt-1 [li&gt;&amp;]:mt-2 list-disc space-y-2 pl-8 gt3_styled_list\"><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>United Arab Emirates</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Jordan</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Kuwait</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Oman</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Qatar</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Bahrain</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Saudi Arabia</li></ul>"
+    }
+   ]
+  },
+  {
+   "id": "93a19cf",
+   "classes": [
+    "elementor-element",
+    "elementor-element-93a19cf",
+    "e-flex",
+    "e-con-boxed",
+    "e-con",
+    "e-parent"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "33c65f2",
+     "text": "South Asia : India Bangladesh",
+     "html": "<p><strong>South Asia :</strong></p><ul class=\"-mt-1 [li&gt;&amp;]:mt-2 list-disc space-y-2 pl-8 gt3_styled_list\"><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>India</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Bangladesh</li></ul>"
+    },
+    {
+     "type": "text-editor",
+     "id": "8e3a5f0",
+     "text": "North America : Canada",
+     "html": "<p><strong>North America :</strong></p><ul class=\"-mt-1 [li&gt;&amp;]:mt-2 list-disc space-y-2 pl-8 gt3_styled_list\"><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Canada</li></ul>"
+    },
+    {
+     "type": "text-editor",
+     "id": "c770172",
+     "text": "South America : Argentina Brazil",
+     "html": "<p><strong>South America :</strong></p><ul class=\"-mt-1 [li&gt;&amp;]:mt-2 list-disc space-y-2 pl-8 gt3_styled_list\"><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Argentina</li><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Brazil</li></ul>"
+    },
+    {
+     "type": "text-editor",
+     "id": "1bf6d9d",
+     "text": "Central Asia : Kazakhstan",
+     "html": "<p><strong>Central Asia :</strong></p><ul class=\"-mt-1 [li&gt;&amp;]:mt-2 list-disc space-y-2 pl-8 gt3_styled_list\"><li class=\"whitespace-normal break-words\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Kazakhstan</li></ul>"
+    },
+    {
+     "type": "text-editor",
+     "id": "00e9cb4",
+     "text": "Oceania : Australia",
+     "html": "<p><strong>Oceania :</strong></p><ul break-words\"=\"\" class=\"-mt-1 [li&gt;&amp;]:mt-2 list-disc space-y-2 pl-8 gt3_styled_list”&gt;&lt;li class=\" whitespace-normal=\"\"><i class=\"gt3_list__icon fa fa-map-marker\"></i>Australia</ul>"
+    }
+   ]
+  },
+  {
+   "id": "7eb7341",
+   "classes": [
+    "elementor-element",
+    "elementor-element-7eb7341",
+    "e-con-full",
+    "e-flex",
+    "e-con",
+    "e-parent"
+   ],
+   "settings": "",
+   "widgets": []
+  }
+ ]
+}

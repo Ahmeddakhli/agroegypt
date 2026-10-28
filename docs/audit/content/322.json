@@ -1,0 +1,248 @@
+{
+ "id": 322,
+ "slug": "about-us",
+ "url": "https://agroegypt.com/about-us/",
+ "parent": 0,
+ "menu_order": 0,
+ "wp_title": "About us",
+ "head": {
+  "title": "About us - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "Egypt is an Egyptian agricultural food exporting company experienced in providing high quality and hygienically safe fruits and vegetables to the markets",
+  "keywords": "citrus,grapes,pomegranates,mango,garlic,onions,packing station,agro egypt,agroegypt,ghallab",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "About us",
+ "breadcrumbs": [
+  "Home",
+  "About us"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/01/s17ee.jpg"
+ ],
+ "sections": [
+  {
+   "id": "b4d9623",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-b4d9623",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": [
+    {
+     "type": "image",
+     "id": "fb31366",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-18-at-2.15.45-PM.jpeg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "216",
+       "h": "348"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "60cfaaa",
+     "text": "Mr. Roshdy Ghallab",
+     "html": "<p>Mr. Roshdy Ghallab</p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "2638e6d",
+     "text": "Our History",
+     "html": "<h2><b>Our History</b></h2>"
+    },
+    {
+     "type": "text-editor",
+     "id": "d66776c",
+     "text": "It all started in 1976 when Mr. Roshdy Ghallab shipped his first shipment of green beans to the Netherlands. Years passed and the business kept growing and so did his sons who decided to take the wheel in 2003 and develop the business to establish one of the top agricultural food exporting companies in Egypt nowadays; Agro Egypt.",
+     "html": "<p style=\"text-align: left;\"><span>It all started in 1976 when Mr. Roshdy Ghallab shipped his first shipment of green beans to the Netherlands. Years passed and the business kept growing and so did his sons who decided to take the wheel in 2003 and develop the business to establish one of the top agricultural food exporting companies in Egypt nowadays; Agro Egypt.  </span></p>"
+    }
+   ]
+  },
+  {
+   "id": "ce799f7",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-ce799f7",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": [
+    {
+     "type": "image",
+     "id": "3d40631",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/dasd.jpg",
+       "alt": "Station Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "940",
+       "h": "444"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "cd6f3ae",
+     "text": "Our Company",
+     "html": "<p style=\"text-align: center;\"><strong>Our Company</strong></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "775da4a",
+     "text": "Agro Egypt is an Egyptian agricultural food exporting company experienced in providing high quality and hygienically safe fruits and vegetables to the international markets. The company holds both BRC, ISO 22000:2005, ACERTA and GLOBALG.A.P certificates, which makes its products fully compatible with global food standards. We offer a wide range of fruits and vegetables like; citrus, grapes, pomegranate, mangos, onions, and fresh garlic harvested from our local farms that are located in the finest agricultural area in Egypt. Agro Egypt is currently exporting to over 15 countries, with exports of 41,000 tons per season.",
+     "html": "<p>Agro Egypt is an Egyptian agricultural food exporting company experienced in providing high quality and hygienically safe fruits and vegetables to the international markets. The company holds both BRC, ISO 22000:2005, ACERTA and GLOBALG.A.P certificates, which makes its products fully compatible with global food standards.</p><p>We offer a wide range of fruits and vegetables like; citrus, grapes, pomegranate, mangos, onions, and fresh garlic harvested from our local farms that are located in the finest agricultural area in Egypt. Agro Egypt is currently exporting to over 15 countries, with exports of 41,000 tons per season.</p>"
+    }
+   ]
+  },
+  {
+   "id": "170fdf4",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-170fdf4",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "31e4377",
+     "text": "Our Packing Station",
+     "html": "<h3><b>Our Packing Station</b></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "bd6ad6a",
+     "text": "In 2014, AgroEgypt started operating its own packing station with capacity of citrus production 30,000 thirty thousand tons annually and cold Stores capacity of 1500 one thousand five hundred tons. The station lines are divided into several different stages and designed to provide a high-quality finished product. Located in the Industrial area of 6th October City, AgroEgypt’s packing station, applies the Pre-Cooling system. This is an essential step that takes place before storage or loading. The Pre-Cooling system, helps in the removal of field heat and thus reduce the rate of respiration and microbial activity. AgroEgypt plans to expand its Cold stores capacity and operations by season 2021-2022. The new extension will allow the new Cold stores capacity to become 5000 five thousand tons and consequently the production to reach 60,000 sixty thousand tons annually. A dedicated area in the new extension station will be used to provide Grapes as well as Oranges of the highest quality.",
+     "html": "<p>In 2014, AgroEgypt started operating its own packing station with capacity of citrus production 30,000 thirty thousand tons annually and cold Stores capacity of 1500 one thousand five hundred tons.<br/>The station lines are divided into several different stages and designed to provide a high-quality finished product.</p><p>Located in the Industrial area of 6th October City, AgroEgypt’s packing station, applies the Pre-Cooling system. This is an essential step that takes place before storage or loading. The Pre-Cooling system, helps in the removal of field heat and thus reduce the rate of respiration and microbial activity.</p><p>AgroEgypt plans to expand its Cold stores capacity and operations by season 2021-2022. The new extension will allow the new Cold stores capacity to become 5000 five thousand tons and consequently the production to reach 60,000 sixty thousand tons annually. A dedicated area in the new extension station will be used to provide Grapes as well as Oranges of the highest quality.</p>"
+    },
+    {
+     "type": "image",
+     "id": "c149287",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/sta.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "507",
+       "h": "815"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "309854c",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-309854c",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"slideshow\",\"background_slideshow_gallery\":[{\"id\":3683,\"url\":\"https:\\/\\/agroegypt.com\\/wp-content\\/uploads\\/2021\\/01\\/pixabay_photo_3808354.jpg\"}],\"background_slideshow_loop\":\"yes\",\"background_slideshow_slide_duration\":5000,\"background_slideshow_slide_transition\":\"fade\",\"background_slideshow_transition_duration\":500}",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "470e86e",
+     "text": "Our Mission",
+     "html": "<p style=\"text-align: center;\"><strong>Our Mission</strong></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "2db5bda",
+     "text": "To provide high quality and hygienically safe fruits and vegetables using advanced production techniques and a full quality management system.",
+     "html": "<p>To provide high quality and hygienically safe fruits and vegetables using advanced production techniques and a full quality management system.</p>"
+    }
+   ]
+  },
+  {
+   "id": "9ef1ef7",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-9ef1ef7",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "image",
+     "id": "6926dd5",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/02/12121-copy.jpg",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "507",
+       "h": "735"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "0481bd5",
+     "text": "Our Vision",
+     "html": "<h4><strong>Our Vision</strong></h4>"
+    },
+    {
+     "type": "text-editor",
+     "id": "ac824ff",
+     "text": "To be the top agricultural food exporting company in Egypt and MENA, and to build trust with the international markets by providing the finest fruits and vegetables.",
+     "html": "<p>To be the top agricultural food exporting company in Egypt and MENA, and to build trust with the international markets by providing the finest fruits and vegetables.</p>"
+    },
+    {
+     "type": "progress",
+     "id": "3e1abe9",
+     "text": "Product Purity Product Purity 98%"
+    },
+    {
+     "type": "progress",
+     "id": "cdc6ab4",
+     "text": "Farmers Competence Farmers Competence 89%"
+    },
+    {
+     "type": "progress",
+     "id": "e324860",
+     "text": "Equipment Equipment 90%"
+    },
+    {
+     "type": "progress",
+     "id": "9b0a9e2",
+     "text": "Satisfied Customers Satisfied Customers 99%"
+    },
+    {
+     "type": "gt3-core-button",
+     "id": "64d0c94",
+     "text": "Get in Touch",
+     "links": [
+      {
+       "href": "https://agroegypt.com/contact-us/",
+       "text": "Get in Touch"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

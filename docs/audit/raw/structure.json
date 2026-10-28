@@ -1,0 +1,6143 @@
+{
+ "15666": {
+  "slug": "shipping-markets",
+  "link": "https://agroegypt.com/shipping-markets/",
+  "parent": 0,
+  "head": {
+   "title": "Shipping & Markets - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Shipping Shipping good taste anywhere in the world.We partnered with the top shipping companies to provide you with the fastest and most reliable shipping experience. Our fruits and vegetables will be well packed and sorted to maintain its shelf-life when it arrives to your storage. Land TransportContact UsMaritime transportContact UsAir transport Contact Us Previous slide - Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/shipping-markets/"
+  },
+  "sections": [
+   {
+    "id": "fa91815",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Shipping"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Shipping good taste anywhere in the world. We partnered with the top shipping companies to provide you with the fastest and most reliable shipping experience. Our fruits and vegetables will be well packed and sorted to maintain its shelf-life when it arrives to your storage."
+     },
+     {
+      "type": "slides.default"
+     }
+    ]
+   },
+   {
+    "id": "cdb4c67",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Markets"
+     },
+     {
+      "type": "divider.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "We have been present in the local and international market in the past 45 years handling exports of fresh fruits and vegetables; we achieved the highest standards of customer satisfaction and reliability by exporting the finest agricultural food to provide the world with a good taste of Egypt directly from its local farms at competitive prices."
+     }
+    ]
+   },
+   {
+    "id": "a5a1e93",
+    "classes": "elementor-section elementor-top-section elementor-section-full_width elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2024/11/markets-copy.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dc2a9b4",
+    "classes": "e-flex e-con-boxed e-con e-parent",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Western Europe : Spain Italy Netherlands England France Germany Slovenia"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Eastern Europe : Russia Ukraine Belarus Latvia Lithuania"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "East Asia : China Hong Kong Japan Singapore"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Southeast Asia : Malaysia Cambodia Indonesia"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Gulf Region : United Arab Emirates Jordan Kuwait Oman Qatar Bahrain Saudi Arabia"
+     }
+    ]
+   },
+   {
+    "id": "992ddd4",
+    "classes": "e-flex e-con-boxed e-con e-parent",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "South Asia : India Bangladesh"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "North America : Canada"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "South America : Argentina Brazil"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Central Asia : Kazakhstan"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Oceania : Australia"
+     }
+    ]
+   },
+   {
+    "id": "4aa76c0",
+    "classes": "e-con-full e-flex e-con e-parent",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "divider.default"
+     }
+    ]
+   }
+  ]
+ },
+ "15493": {
+  "slug": "syc",
+  "link": "https://agroegypt.com/syc/",
+  "parent": 0,
+  "head": {
+   "title": "Protected: syc - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/syc/"
+  },
+  "sections": []
+ },
+ "4460": {
+  "slug": "careers",
+  "link": "https://agroegypt.com/careers/",
+  "parent": 0,
+  "head": {
+   "title": "Careers - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt Careers Working at Agro Egypt (Ghallab) is more than a job; it is a step towards a remarkable career.",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/careers/"
+  },
+  "sections": [
+   {
+    "id": "16b1ced",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "heading.default",
+      "text": "Careers​"
+     },
+     {
+      "type": "text-editor.default",
+      "text": ""
+     },
+     {
+      "type": "divider.default"
+     }
+    ]
+   }
+  ]
+ },
+ "3180": {
+  "slug": "garlic",
+  "link": "https://agroegypt.com/gallery/garlic/",
+  "parent": 3098,
+  "head": {
+   "title": "Garlic Gallery - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "fresh fruit and vegetables",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/gallery/garlic/"
+  },
+  "sections": [
+   {
+    "id": "46ad383",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "image-gallery.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-22-150x150.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-21-150x150.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-20-150x150.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-19-150x150.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-18-150x150.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-17-150x150.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-101-150x150.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-37-150x150.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-36-150x150.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-35-150x150.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-34-150x150.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-33-150x150.jpeg"
+      ],
+      "links": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-22.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-21.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-20.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-19.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-18.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-17.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-101.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-37.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-36.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-35.jpeg"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "3178": {
+  "slug": "mango",
+  "link": "https://agroegypt.com/gallery/mango/",
+  "parent": 3098,
+  "head": {
+   "title": "Fresh-Mango - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Agricultureal Products Ghallab (Exporting fresh fruit and vegetables to Over the world)",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/gallery/mango/"
+  },
+  "sections": [
+   {
+    "id": "bf885c0",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "gt3pg-grid.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-24-768x632.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-23.jpeg"
+      ],
+      "links": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-24-768x632.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-23.jpeg"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "3146": {
+  "slug": "grapes",
+  "link": "https://agroegypt.com/gallery/grapes/",
+  "parent": 3098,
+  "head": {
+   "title": "Fresh-Grapes - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Onion Agricultureal Products",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/gallery/grapes/"
+  },
+  "sections": [
+   {
+    "id": "e2ad79c",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "gt3pg-grid.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-58-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-61-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-62-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-63-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-64-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-66-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-67-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-80-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-83-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-84-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-87-768x576.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-88-768x576.jpeg"
+      ],
+      "links": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-58-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-61-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-62-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-63-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-64-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-66-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-67-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-80-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-83-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-84-768x1024.jpeg"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "3135": {
+  "slug": "onions",
+  "link": "https://agroegypt.com/gallery/onions/",
+  "parent": 3098,
+  "head": {
+   "title": "Fresh-Onions - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Onion red and white and yallow",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/gallery/onions/"
+  },
+  "sections": [
+   {
+    "id": "d5d5439",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "gt3pg-grid.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/OR.jpg",
+       "https://agroegypt.com/wp-content/uploads/2020/12/Red.jpg",
+       "https://agroegypt.com/wp-content/uploads/2020/12/yellow.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/OR.jpg",
+       "https://agroegypt.com/wp-content/uploads/2020/12/Red.jpg",
+       "https://agroegypt.com/wp-content/uploads/2020/12/yellow.jpg"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "3124": {
+  "slug": "pomegranate",
+  "link": "https://agroegypt.com/gallery/pomegranate/",
+  "parent": 3098,
+  "head": {
+   "title": "Fresh-Pomegranate - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "#post_excerptfresh fruit",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/gallery/pomegranate/"
+  },
+  "sections": [
+   {
+    "id": "c955856",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "gt3pg-grid.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-38-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-39-768x576.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-40-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-41-768x576.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-42-768x576.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-43-768x576.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-44-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-45-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-46-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-47-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-48-768x1024.jpeg"
+      ],
+      "links": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-38-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-39-768x576.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-40-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-41-768x576.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-42-768x576.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-43-768x576.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-44-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-45-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-46-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-47-768x1024.jpeg"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "3110": {
+  "slug": "citrus",
+  "link": "https://agroegypt.com/gallery/citrus/",
+  "parent": 3098,
+  "head": {
+   "title": "Fresh-Citrus - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Citrus is a genus of flowering trees and shrubs in the rue family, Rutaceae. , like (Oranges - Lemons - Grapefruit - Mandarins)",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/gallery/citrus/"
+  },
+  "sections": [
+   {
+    "id": "d5fec39",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "gt3pg-grid.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-15-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-16-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-50-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-51-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-52-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-53-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-55-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-59-768x576.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-68.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-72.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-73.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-74.jpeg"
+      ],
+      "links": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-15-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-16-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-50-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-51-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-52-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-53-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-55-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-59-768x576.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-68.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/1-72.jpeg"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "3100": {
+  "slug": "pack-house",
+  "link": "https://agroegypt.com/gallery/pack-house/",
+  "parent": 3098,
+  "head": {
+   "title": "Packing Station - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Exporting fresh fruit and vegetables to Over the world",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/gallery/pack-house/"
+  },
+  "sections": [
+   {
+    "id": "664c4df",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "gt3pg-grid.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/dasd-768x363.jpg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/WhatsApp-Image-2020-12-15-at-1.17.49-PM-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/WhatsApp-Image-2020-12-15-at-1.17.50-PM-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/WhatsApp-Image-2020-12-15-at-1.17.51-PM-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/WhatsApp-Image-2020-12-15-at-1.17.52-PM-1-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/WhatsApp-Image-2020-12-15-at-1.17.52-PM-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/company.jpg",
+       "https://agroegypt.com/wp-content/uploads/2020/08/005-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2020/08/003-768x1024.jpeg"
+      ],
+      "links": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/dasd-768x363.jpg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/WhatsApp-Image-2020-12-15-at-1.17.49-PM-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/WhatsApp-Image-2020-12-15-at-1.17.50-PM-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/WhatsApp-Image-2020-12-15-at-1.17.51-PM-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/WhatsApp-Image-2020-12-15-at-1.17.52-PM-1-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/WhatsApp-Image-2020-12-15-at-1.17.52-PM-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2021/01/company.jpg",
+       "https://agroegypt.com/wp-content/uploads/2020/08/005-768x1024.jpeg",
+       "https://agroegypt.com/wp-content/uploads/2020/08/003-768x1024.jpeg"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "3098": {
+  "slug": "gallery",
+  "link": "https://agroegypt.com/gallery/",
+  "parent": 0,
+  "head": {
+   "title": "Gallery - Agro Egypt for agricultural products (Ghallab) https://agroegypt.com/gallery/",
+   "description": "- October 2, 2026 Gallery",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/about-us/"
+  },
+  "sections": [
+   {
+    "id": "a2a5c3a",
+    "classes": "elementor-section elementor-top-section elementor-section-full_width elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/o1.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/gallery/citrus/"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/flam.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/gallery/grapes/"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/pomegranate.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/gallery/pomegranate/"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/09/Naomi.jpeg"
+      ],
+      "links": [
+       "https://agroegypt.com/gallery/mango/"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/GR-1.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/gallery/garlic/"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/Red.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/gallery/onions/"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "bd7579a",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"slideshow\",\"background_slideshow_slide_transition\":\"slide_right\",\"background_slideshow_gallery\":[],\"background_slideshow_loop\":\"yes\",\"background_slideshow_slide_duration\":5000,\"background_slideshow_transition_duration\":500}",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/dasd-1024x484.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/gallery/pack-house/"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f0364d6",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "2950": {
+  "slug": "black-grapes",
+  "link": "https://agroegypt.com/our-products/grapes/black-grapes/",
+  "parent": 1706,
+  "head": {
+   "title": "Black Grapes - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Black Grapes Are seedless small to medium size fruit with dark purple to black color. They are less crunchy compared to red and green grapes but are juicy and sweet...",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/grapes/black-grapes/"
+  },
+  "sections": [
+   {
+    "id": "487b69a1",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "727cffa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "87e88ec",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Black Grapes Are seedless small to medium size fruit with dark purple to black color. They are less crunchy compared to red and green grapes but are juicy and sweet."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Variety"
+     },
+     {
+      "type": "icon-list.default",
+      "text": "Black Magic Autumn Royal"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 4.5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/black-.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f857585",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Black Magic"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JUN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JUL"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "c1666f6",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Autumn Royal"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JUL"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "AUG"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "92fbe99",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Size"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "18 mm+"
+     }
+    ]
+   },
+   {
+    "id": "3095d6f3",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "2778": {
+  "slug": "markets",
+  "link": "https://agroegypt.com/markets/",
+  "parent": 0,
+  "head": {
+   "title": "Shipping & Markets - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "We have been present in the local and international market in the past 45 years handling exports of fresh fruits and vegetables...",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/markets/"
+  },
+  "sections": [
+   {
+    "id": "fa91815",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Shipping"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Shipping good taste anywhere in the world. We partnered with the top shipping companies to provide you with the fastest and most reliable shipping experience. Our fruits and vegetables will be well packed and sorted to maintain its shelf-life when it arrives to your storage."
+     },
+     {
+      "type": "slides.default"
+     }
+    ]
+   },
+   {
+    "id": "cdb4c67",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Markets"
+     },
+     {
+      "type": "divider.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "We have been present in the local and international market in the past 45 years handling exports of fresh fruits and vegetables; we achieved the highest standards of customer satisfaction and reliability by exporting the finest agricultural food to provide the world with a good taste of Egypt directly from its local farms at competitive prices."
+     }
+    ]
+   },
+   {
+    "id": "67215be",
+    "classes": "elementor-section elementor-top-section elementor-section-full_width elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2024/11/markets-copy.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "57ea813",
+    "classes": "e-flex e-con-boxed e-con e-parent",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Western Europe : Spain Italy Netherlands England France Germany Slovenia"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Eastern Europe : Russia Ukraine Belarus Latvia Lithuania"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "East Asia : China Hong Kong Japan Singapore"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Southeast Asia : Malaysia Cambodia Indonesia"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Gulf Region : United Arab Emirates Jordan Kuwait Oman Qatar Bahrain Saudi Arabia"
+     }
+    ]
+   },
+   {
+    "id": "93a19cf",
+    "classes": "e-flex e-con-boxed e-con e-parent",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "South Asia : India Bangladesh"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "North America : Canada"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "South America : Argentina Brazil"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Central Asia : Kazakhstan"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Oceania : Australia"
+     }
+    ]
+   },
+   {
+    "id": "7eb7341",
+    "classes": "e-con-full e-flex e-con e-parent",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "divider.default"
+     }
+    ]
+   }
+  ]
+ },
+ "2490": {
+  "slug": "mandarine-2",
+  "link": "https://agroegypt.com/our-products/citrus/mandarine-2/",
+  "parent": 1647,
+  "head": {
+   "title": "Mandarins - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Mandarins Is a small citrus tree but typically sweeter and less acidic than oranges. Mandarin has several varieties like Fremont, W. Murcott and Honey Murcott",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/citrus/mandarine-2/"
+  },
+  "sections": [
+   {
+    "id": "a3269fa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "37ed788",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "3a292e3c",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Mandarins Is a small citrus tree with loose-skinned fruit resembling other oranges but typically sweeter and less acidic than oranges. Mandarin has several varieties like Fremont, W. Murcott and Honey Murcott, that are varieties originated by natural mutations with other citruses."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Variety"
+     },
+     {
+      "type": "icon-list.default",
+      "text": "Fremont W Murcott Kinnow Honey Murcott"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 15 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-01-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Telescopic Carton (Net Weight 15 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/mandaren.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "6c4a5331",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Fremont"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "NOV"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "DEC"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "68831061",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "W Murcott"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JAN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "FEB"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "46d6f7a8",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Kinnow"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JAN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "FEB"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "4803b40",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Honey Murcott"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "FEB"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAR"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "APR"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "3fafaa8f",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Counts"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "42"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "48"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "54"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "60"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "66"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "72"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "80"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "90"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "100"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "110"
+     },
+     {
+      "type": "icon.default"
+     }
+    ]
+   },
+   {
+    "id": "6d4e649b",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "2483": {
+  "slug": "grapefruit-2",
+  "link": "https://agroegypt.com/our-products/citrus/grapefruit-2/",
+  "parent": 1647,
+  "head": {
+   "title": "Grapefruit - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Grapefruit Is a tropical large citrus fruit related to the orange, lemon, and pomelo families with a flavor that can range from bittersweet to sour.",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/citrus/grapefruit-2/"
+  },
+  "sections": [
+   {
+    "id": "a3269fa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "37ed788",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "9553216",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Grapefruit Is a tropical large citrus fruit related to the orange, lemon, and pomelo families with a flavor that can range from bittersweet to sour. One of the best varieties of grapefruit is Star Ruby, which is known for its darkest red inside pigmentation among all the grapefruit varieties."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Variety"
+     },
+     {
+      "type": "icon-list.default",
+      "text": "Star Ruby Ruby Red"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 15 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-01-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Telescopic Carton (Net Weight 15 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/grapfr.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "4b643598",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Grapefruit"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "OCT"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "NOV"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "DEC"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JAN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "2e2f4e41",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Counts"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "24"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "28"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "30"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "35"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "40"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "45"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "50"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "55"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "60"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "65"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "70"
+     },
+     {
+      "type": "icon.default"
+     }
+    ]
+   },
+   {
+    "id": "558ce553",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "2350": {
+  "slug": "white",
+  "link": "https://agroegypt.com/our-products/fresh-garlic/white/",
+  "parent": 2037,
+  "head": {
+   "title": "White Garlic - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "White Garlic Produces large bulbs with approx. 10-15 cloves per bulb. The bulb is covered in bright white papery skins...",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/fresh-garlic/white/"
+  },
+  "sections": [
+   {
+    "id": "3e458879",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "5e670dad",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "a818fe2",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "White Produces large bulbs with approx. 10-15 cloves per bulb. The bulb is covered in bright white papery skins."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/plasticBox-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "In plastic box (Net Weight 10 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Plastic Box/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/Pasket-01-1-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Pasket (Net Weight 5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pasket/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/11/jhf-Recovered-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Mesh Bags(Net Weight5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Mesh Bags/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/g1.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "78fdb92",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "White"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "APR"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-06-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAY"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-06-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "29963c1",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Size"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "50 mm+"
+     }
+    ]
+   },
+   {
+    "id": "1c37411",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "2330": {
+  "slug": "red",
+  "link": "https://agroegypt.com/our-products/fresh-garlic/red/",
+  "parent": 2037,
+  "head": {
+   "title": "Red Garlic - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Red Onion Produces medium to large bulbs with approx. 7-10 cloves per bulb. The bulb is covered with purple striped papery skins.",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/fresh-garlic/red/"
+  },
+  "sections": [
+   {
+    "id": "3e458879",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "5e670dad",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "5ec40625",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Red Produces medium to large bulbs with approx. 7-10 cloves per bulb. The bulb is covered with purple striped papery skins."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/plasticBox-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Plastic Box(Net Weight 10 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Plastic Box/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/Pasket-01-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Pasket (Net Weight 5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pasket/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/11/jhf-Recovered-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Mesh Bags(Net Weight5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Mesh Bags/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/GR-1.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "70a0a7fb",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Red"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "APR"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-06-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAY"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-06-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "29b7037",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Size"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "50 mm+"
+     }
+    ]
+   },
+   {
+    "id": "729f5b91",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "2037": {
+  "slug": "fresh-garlic",
+  "link": "https://agroegypt.com/our-products/fresh-garlic/",
+  "parent": 1637,
+  "head": {
+   "title": "Garlic - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/fresh-garlic/"
+  },
+  "sections": [
+   {
+    "id": "37ed788",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "aa20dbc",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/g1.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/fresh-garlic/white"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/GR-1.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/fresh-garlic/red"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "a646144",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "2023": {
+  "slug": "mango",
+  "link": "https://agroegypt.com/our-products/mango/",
+  "parent": 1637,
+  "head": {
+   "title": "Mango - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/mango/"
+  },
+  "sections": [
+   {
+    "id": "a3269fa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "37ed788",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "7ba1339b",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Mango It’s an oval shaped fruit that is from the cashew family, it has many varieties That ranges in the level of sweetness and their buttery flesh. Mango sizes vary from 5 to 15 cm in length and from 4 to 10 cm in width and weights from 150 grams to 750 grams per fruit. Some of the most popular mango varieties are; Keitt, Kent, Naomi, and Tommy Atkins"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Variety"
+     },
+     {
+      "type": "icon-list.default",
+      "text": "Heidy Mango Tommy Atkins Naomi Mango Keitt Mango Kent Mango R2"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 6 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/MP.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "335764b9",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Heidy Mango"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "AUG"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "SEP"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "19e72437",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Keitt Mango"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "AUG"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "SEP"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "OCT"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "NOV"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "98da64f",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Kent Mango"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "AUG"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "SEP"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "7acbbfbf",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Naomi Mango"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "July"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "AUG"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "SEP"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f8934e6",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "R2"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "AUG"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "SEP"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "4a25710",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Tommy Atkins"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "July"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "AUG"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "SEP"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-05-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "42b5915",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Counts"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "8"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "9"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "10"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "11"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "12"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "13"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "14"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "15"
+     },
+     {
+      "type": "icon.default"
+     }
+    ]
+   },
+   {
+    "id": "33d878ab",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1751": {
+  "slug": "brands",
+  "link": "https://agroegypt.com/brands/",
+  "parent": 0,
+  "head": {
+   "title": "Our Brands - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "AGROEGYPT has seven brand names which are Agro Egypt, Okay, Princess & Lemons, Four Brothers, Sun Citrus, Sun Fruit & Wonderful sold under different designs...",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/brands/"
+  },
+  "sections": [
+   {
+    "id": "7569a3e",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Brands"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "AGROEGYPT has seven brand names which are Agro Egypt, Okay, Princess & Lemons, Four Brothers, Sun Citrus, Sun Fruit & Wonderful sold under different designs, they are famous for supplying oranges, lemons, grapes and other varieties."
+     },
+     {
+      "type": "divider.default"
+     },
+     {
+      "type": "image-gallery.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/Oranges-1-150x150.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/for-brothers-150x150.png",
+       "https://agroegypt.com/wp-content/uploads/2024/11/3-1-150x150.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/Okay-150x150.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/Sun-Fruit-150x150.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/lemone-150x150.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/Wonderful-lemons-150x150.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/Sun-Citrus-150x150.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/p-150x150.png"
+      ],
+      "links": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/Oranges-1.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/for-brothers.png",
+       "https://agroegypt.com/wp-content/uploads/2024/11/3-1.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/Okay.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/Sun-Fruit.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/lemone.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/Wonderful-lemons.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/Sun-Citrus.png",
+       "https://agroegypt.com/wp-content/uploads/2021/01/p.png"
+      ]
+     },
+     {
+      "type": "divider.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1745": {
+  "slug": "pomegranate",
+  "link": "https://agroegypt.com/our-products/pomegranate/",
+  "parent": 1637,
+  "head": {
+   "title": "Pomegranate - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Pomegranate Is a nearly round medium to large fruit. It’s layered with a deep pink leathery skin, bitter tissue into compartments packed with sacs filled",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/pomegranate/"
+  },
+  "sections": [
+   {
+    "id": "1ecb5236",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "6e056ead",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "26f474cc",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Pomegranate Is a nearly round medium to large fruit. It’s layered with a deep pink leathery skin, the interior has white, spongy, bitter tissue into compartments packed with sacs filled with sweetly acid, juicy, dark pink tiny seeds. The seeds are entirely edible, crunchy, sweet and berry-like in flavor."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-08-150x150.jpg"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 4.5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/pomegranate.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "41800671",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Pomegranate"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "SEP"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-04-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "OCT"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-04-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "NOV"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-04-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "DEC"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-04-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "60a5c9e",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Counts"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "6"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "7"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "8"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "9"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "10"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "11"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "12"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "13"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "14"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "15"
+     },
+     {
+      "type": "icon.default"
+     }
+    ]
+   },
+   {
+    "id": "5d9ae247",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1740": {
+  "slug": "crimson",
+  "link": "https://agroegypt.com/our-products/grapes/crimson/",
+  "parent": 1706,
+  "head": {
+   "title": "Crimson - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Crimson Are seedless pinkish red grapes and are medium in size. They have crisp skin, a good level of sweetness and transit holding patterns...",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/grapes/crimson/"
+  },
+  "sections": [
+   {
+    "id": "7e6c5288",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "4128f0ab",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "2603e24",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Crimson Are seedless pinkish red grapes and are medium in size. They have crisp skin, a good level of sweetness and transit holding patterns."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 4.5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/crimson.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "45d97ad",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Crimson"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "AUG"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "SEP"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "OCT"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "72f8163",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Size"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "18 mm+"
+     }
+    ]
+   },
+   {
+    "id": "684fdfa7",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1734": {
+  "slug": "red-globe",
+  "link": "https://agroegypt.com/our-products/grapes/red-globe/",
+  "parent": 1706,
+  "head": {
+   "title": "Red Globe - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Red Globe Are large round fruit with bluish-pink color and few seeds (two to three per grape). They are sweet with good juice content and crunchy...",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/grapes/red-globe/"
+  },
+  "sections": [
+   {
+    "id": "487b69a1",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "727cffa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "87e88ec",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Red Globe Are large round fruit with bluish-pink color and few seeds (two to three per grape). They are sweet with good juice content and crunchy."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 4.5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/red.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f857585",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Red Globe"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JUL"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "AUG"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "38716a6",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Size"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "24 mm+"
+     }
+    ]
+   },
+   {
+    "id": "3095d6f3",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1720": {
+  "slug": "flame",
+  "link": "https://agroegypt.com/our-products/grapes/flame/",
+  "parent": 1706,
+  "head": {
+   "title": "Flame - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Flame Grapes Are medium- large light red fruit with a crisp skin and a sweet flavor. They are seedless and firmly attached to the stem...",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/grapes/flame/"
+  },
+  "sections": [
+   {
+    "id": "652760bd",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "555dfa3c",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "e7d5cfd",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Flame Are medium- large light red fruit with a crisp skin and a sweet flavor. They are seedless and firmly attached to the stem."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 4.5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/flam.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "41a9c23",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Flame"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAY"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JUN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f5e364d",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Size"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "16 mm+"
+     }
+    ]
+   },
+   {
+    "id": "2109567e",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1711": {
+  "slug": "sugraone",
+  "link": "https://agroegypt.com/our-products/grapes/sugraone/",
+  "parent": 1706,
+  "head": {
+   "title": "Sugraone - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "A pale yellow-green seedless medium-size oval fruit that has a light, sweet flavor wrapped in a crisp skin.",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/grapes/sugraone/"
+  },
+  "sections": [
+   {
+    "id": "69cc482f",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "4680149b",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "225fe0e",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Sugraone A pale yellow-green seedless medium-size oval fruit that has a light, sweet flavor wrapped in a crisp skin."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 4.5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 5 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/grapes-sugraone-1.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "65865b88",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Sugraone"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAY"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JUN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-03-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "5f6b8e3",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Size"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "18 mm+"
+     }
+    ]
+   },
+   {
+    "id": "6118f97b",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1706": {
+  "slug": "grapes",
+  "link": "https://agroegypt.com/our-products/grapes/",
+  "parent": 1637,
+  "head": {
+   "title": "Grapes - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/grapes/"
+  },
+  "sections": [
+   {
+    "id": "a3269fa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "aa20dbc",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/grapes-sugraone-1.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/grapes/sugraone"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/flam.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/grapes/flame"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/red.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/grapes/red-globe"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "65e0e4d",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": []
+   },
+   {
+    "id": "cb4790e",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/black-.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/grapes/black-grapes"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/crimson.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/grapes/crimson"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "a646144",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1700": {
+  "slug": "white",
+  "link": "https://agroegypt.com/our-products/onions/white/",
+  "parent": 1682,
+  "head": {
+   "title": "White Onion - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/onions/white/"
+  },
+  "sections": [
+   {
+    "id": "a3269fa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "37ed788",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "1211f985",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "White Is a type of dry onion that has a pure white skin and a sweet mild white flesh"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/11/jhf-Recovered-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Mesh Bags (Net Weight 10 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Bags/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/11/jhf-Recovered-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Mesh Bags (Net Weight 25 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Bags/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/White.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "584edc7b",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "White"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAY"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JUL"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JUL"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "7ab7547",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Counts"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "40-60"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "60-80"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "80-100"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "50-70"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "70-90"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "90-110"
+     },
+     {
+      "type": "icon.default"
+     }
+    ]
+   },
+   {
+    "id": "89cda2f",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1693": {
+  "slug": "red",
+  "link": "https://agroegypt.com/our-products/onions/red/",
+  "parent": 1682,
+  "head": {
+   "title": "Red Onion - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Red Onions Are small to medium in size, averaging 10-15 centimeters in diameter, and are round to slightly oval.",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/onions/red/"
+  },
+  "sections": [
+   {
+    "id": "340a4563",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "526e93b0",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "5be38473",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Red Are small to medium in size, averaging 10-15 centimeters in diameter, and are round to slightly oval."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/11/jhf-Recovered-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Mesh Bags (Net Weight 10 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Mesh Bags/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/11/jhf-Recovered-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Mesh Bags (Net Weight 25 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Mesh Bags/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/Red.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "1d5dcb60",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Red"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAY"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JUN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JUL"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "AUG"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "SEP"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "OCT"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "NOV"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "DEC"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "31f06e7a",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Counts"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "40-60"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "60-80"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "80-100"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "50-70"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "70-90"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "90-110"
+     },
+     {
+      "type": "icon.default"
+     }
+    ]
+   },
+   {
+    "id": "17ceadfd",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1685": {
+  "slug": "yellow",
+  "link": "https://agroegypt.com/our-products/onions/yellow/",
+  "parent": 1682,
+  "head": {
+   "title": "Yellow - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/onions/yellow/"
+  },
+  "sections": [
+   {
+    "id": "a3269fa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "37ed788",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "56cbcd8b",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Yellow Also known as brown onion, is a variety of dry onion with a strong flavor. They have a nice balance of astringency and sweet in their flavor."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/11/jhf-Recovered-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Mesh Bags (Net Weight 10 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Mesh Bags/Pallets"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/11/jhf-Recovered-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Mesh Bags (Net weight 25 kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Mesh Bags/Pallets"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/yellow.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "20f28d2",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Yellow"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "FEB"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAR"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "APR"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAY"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JUN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JUL"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-02-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "13e5f573",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Counts"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "40-60"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "60-80"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "80-100"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "50-70"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "70-90"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "90-110"
+     },
+     {
+      "type": "icon.default"
+     }
+    ]
+   },
+   {
+    "id": "50a9c890",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1682": {
+  "slug": "onions",
+  "link": "https://agroegypt.com/our-products/onions/",
+  "parent": 1637,
+  "head": {
+   "title": "Onions - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "- Discover our high-quality onions, sourced fresh from local farms. Explore our variety of onion products and find the perfect fit for your culinary needs.",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/onions/"
+  },
+  "sections": [
+   {
+    "id": "a3269fa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "37ed788",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "aa20dbc",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/OG.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/onions/yellow"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/OR.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/onions/red"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/OW.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/onions/white"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "a646144",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1677": {
+  "slug": "baladi",
+  "link": "https://agroegypt.com/our-products/citrus/orange/baladi/",
+  "parent": 1654,
+  "head": {
+   "title": "Baladi - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Baladi Oranges Are small to medium sized seedy fruits with the same taste as Valencia oranges, they are easy to squeeze, deep orange in color and full of juice.",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/citrus/orange/baladi/"
+  },
+  "sections": [
+   {
+    "id": "53db7a61",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "4d118a9c",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "36630f7a",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Baladi Are small to medium sized seedy fruits with the same taste as Valencia oranges, they are easy to squeeze, deep orange in color and full of juice."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 15 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-01-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Telescopic Carton (Net Weight 15 Kgs)."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-07-1-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Bins 600 Kgs"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. Bins / Container 40"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/elementor/thumbs/opened-packaged-02-qsd05zcpq2929o2o5oqh5k7nbotfu2xadhj2nas5tg.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/o3.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "1a988fca",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Baladi"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "DEC"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JAN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "221ace05",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Counts"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "56"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "64"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "72"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "80"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "88"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "100"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "113"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "125"
+     },
+     {
+      "type": "icon.default"
+     }
+    ]
+   },
+   {
+    "id": "15f800c9",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1671": {
+  "slug": "valencia",
+  "link": "https://agroegypt.com/our-products/citrus/orange/valencia/",
+  "parent": 1654,
+  "head": {
+   "title": "Valencia - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Valencia Orange They are medium to large fruits with a smooth, finely rough skin which is tough to peel, have a few seeds and popular of their juicing character",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/citrus/orange/valencia/"
+  },
+  "sections": [
+   {
+    "id": "17ac44a1",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "5262e661",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "6210f7b3",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Valencia They are medium to large fruits with a smooth, finely rough skin which is tough to peel, have a few seeds and popular of their juicing character."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 15 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-01-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Telescopic Carton (Net Weight 15 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-07-1-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Bins 600 Kgs"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. Bins / Container 40"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/elementor/thumbs/opened-packaged-02-qsd05zcphahry2fx9wk8qcfz47z43qa574m1f0opt8.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/o1.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "b937ff0",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Valencia"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JAN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "FEB"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAR"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "APR"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAY"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "cc5fd40",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Counts"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "40"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "48"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "56"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "64"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "72"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "80"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "88"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "100"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "113"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "125"
+     },
+     {
+      "type": "icon.default"
+     }
+    ]
+   },
+   {
+    "id": "6981112c",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1665": {
+  "slug": "navel",
+  "link": "https://agroegypt.com/our-products/citrus/orange/navel/",
+  "parent": 1654,
+  "head": {
+   "title": "Navels - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Navels Are hybrids that were the result of crossing a tangelo and a mandarin orange which make them deliciously sweet, it resembles a human navel ....",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/citrus/orange/navel/"
+  },
+  "sections": [
+   {
+    "id": "a3269fa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "37ed788",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "666cd055",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Navels Are hybrids that were the result of crossing a tangelo and a mandarin orange which make them deliciously sweet, it resembles a human navel (bellybutton)—hence the name. They are seedless, are easy to peel, and are thought to be one of the world’s best-tasting oranges."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Variety"
+     },
+     {
+      "type": "icon-list.default",
+      "text": "Washington Navels Lane Late Navels Cara Cara Navels"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Open Top Carton (Net Weight 15 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-01-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Telescopic Carton (Net Weight 15 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/o2.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "7e257780",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Washington Navels"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "DEC"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JAN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "FEB"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "61a17daa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Lane Late Navels"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAR"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "APR"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "e7d3dfc",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Cara Cara Navels"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "DEC"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JAN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "17671890",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Counts"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "40"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "48"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "56"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "64"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "72"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "80"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "88"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "100"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "113"
+     },
+     {
+      "type": "icon.default"
+     }
+    ]
+   },
+   {
+    "id": "f75dc7d",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1658": {
+  "slug": "lemon",
+  "link": "https://agroegypt.com/our-products/citrus/lemon/",
+  "parent": 1647,
+  "head": {
+   "title": "Lemons - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/citrus/lemon/"
+  },
+  "sections": [
+   {
+    "id": "a3269fa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "37ed788",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "4a42804",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "L emons Are among the world’s most popular citrus fruits. They grow on lemon trees and are a hybrid of the original citron and lime."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Packaging"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-01-150x150.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Telescpic Carton (Net Weight 15 Kgs)"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Pallets/Container"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "No. of Cartons/Pallet"
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02-60x59.png"
+      ]
+     },
+     {
+      "type": "gt3-core-info-list.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04-60x59.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Seasonality"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/lemon.jpg"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "6ac1ee3b",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Eureka"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "DEC"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "JAN"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "FEB"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "MAR"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "23bf7c02",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Counts"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "72"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "80"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "88"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "100"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "113"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "125"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "138"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "150"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "162"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "189"
+     },
+     {
+      "type": "icon.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "216"
+     },
+     {
+      "type": "icon.default"
+     }
+    ]
+   },
+   {
+    "id": "33c857d6",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1654": {
+  "slug": "orange",
+  "link": "https://agroegypt.com/our-products/citrus/orange/",
+  "parent": 1647,
+  "head": {
+   "title": "Oranges - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/citrus/orange/"
+  },
+  "sections": [
+   {
+    "id": "a3269fa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "37ed788",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "aa20dbc",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/o2.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/citrus/orange/navel"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/o1.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/citrus/orange/valencia"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/o3.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/citrus/orange/baladi"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "a646144",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1647": {
+  "slug": "citrus",
+  "link": "https://agroegypt.com/our-products/citrus/",
+  "parent": 1637,
+  "head": {
+   "title": "Citrus - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/citrus/"
+  },
+  "sections": [
+   {
+    "id": "a3269fa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "aa20dbc",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/c1.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/citrus/orange/"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/c2.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/citrus/lemon"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/c3.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/citrus/grapefruit-2"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/c4.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/citrus/mandarine-2"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "a646144",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1637": {
+  "slug": "our-products",
+  "link": "https://agroegypt.com/our-products/",
+  "parent": 0,
+  "head": {
+   "title": "Our Products - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "- Citrus Export Company in Egypt, Citrus fruits, Grapes, red onion, red garlic, white onion, garlic, contact us, 埃及柑橘出口公司, मिस्र में साइट्रस एक्सपोर्ट कंपनी, Компания по экспорту цитрусовых в Египте",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/our-products/"
+  },
+  "sections": [
+   {
+    "id": "a3269fa",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "aa20dbc",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/09/Baladi.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/citrus"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/flam.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/grapes"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/12/pomegranate.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/pomegranate"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "f651408",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/09/Alphonso.jpeg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/mango"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/OR.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/onions"
+      ]
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/g1.jpg"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/fresh-garlic"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "3224360",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "636": {
+  "slug": "contact-us",
+  "link": "https://agroegypt.com/contact-us/",
+  "parent": 0,
+  "head": {
+   "title": "Contact us - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Clarification In Agro Egypt ( Ghallab ) We aim to reach you anytime & everywhere. For any inquiries please contact us via Email or Phone Call.save yout time .",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/contact-us/"
+  },
+  "sections": [
+   {
+    "id": "4042a5c",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/02/lemon-10-1-300x300.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "CPC Industrial Park – Plot no (2-3) , 6th October City, Egypt."
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/02/lemon-11-1-300x300.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "(+202) 38642048"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/02/lemon-12-300x300.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "(+202) 38642049"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/02/lemon-09-300x300.png"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "info@agroegypt.com"
+     },
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "840a467",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "heading.default",
+      "text": "Get in touch"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Want to know more information about our tasty fruits and vegetables? Leave your contact info and message below and one of our customer support team will contact you shortly."
+     },
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": ""
+     },
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "c711334",
+    "classes": "elementor-section elementor-top-section elementor-section-full_width elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "html.default"
+     }
+    ]
+   }
+  ]
+ },
+ "322": {
+  "slug": "about-us",
+  "link": "https://agroegypt.com/about-us/",
+  "parent": 0,
+  "head": {
+   "title": "About us - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+   "description": "Egypt is an Egyptian agricultural food exporting company experienced in providing high quality and hygienically safe fruits and vegetables to the markets",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/about-us/"
+  },
+  "sections": [
+   {
+    "id": "b4d9623",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/02/WhatsApp-Image-2021-02-18-at-2.15.45-PM.jpeg"
+      ]
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Mr. Roshdy Ghallab"
+     },
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Our History"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "It all started in 1976 when Mr. Roshdy Ghallab shipped his first shipment of green beans to the Netherlands. Years passed and the business kept growing and so did his sons who decided to take the wheel in 2003 and develop the business to establish one of the top agricultural food exporting companies in Egypt nowadays; Agro Egypt."
+     },
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "ce799f7",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/dasd-1024x484.jpg"
+      ]
+     },
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Our Company"
+     },
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Agro Egypt is an Egyptian agricultural food exporting company experienced in providing high quality and hygienically safe fruits and vegetables to the international markets. The company holds both BRC, ISO 22000:2005, ACERTA and GLOBALG.A.P certificates, which makes its products fully compatible with global food standards. We offer a wide range of fruits and vegetables like; citrus, grapes, pomegranate, mangos, onions, and fresh garlic harvested from our local farms that are located in the finest agricultural area in Egypt. Agro Egypt is currently exporting to over 15 countries, with exports o"
+     }
+    ]
+   },
+   {
+    "id": "170fdf4",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Our Packing Station"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "In 2014, AgroEgypt started operating its own packing station with capacity of citrus production 30,000 thirty thousand tons annually and cold Stores capacity of 1500 one thousand five hundred tons. The station lines are divided into several different stages and designed to provide a high-quality finished product. Located in the Industrial area of 6th October City, AgroEgypt’s packing station, applies the Pre-Cooling system. This is an essential step that takes place before storage or loading. The Pre-Cooling system, helps in the removal of field heat and thus reduce the rate of respiration and"
+     },
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/01/sta.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "309854c",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"slideshow\",\"background_slideshow_gallery\":[{\"id\":3683,\"url\":\"https:\\/\\/agroegypt.com\\/wp-content\\/uploads\\/2021\\/01\\/pixabay_photo_3808354.jpg\"}],\"background_slideshow_loop\":\"yes\",\"background_slideshow_slide_duration\":5000,\"background_slideshow_slide_transition\":\"fade\",\"bac",
+    "widgets": [
+     {
+      "type": "text-editor.default",
+      "text": "Our Mission"
+     },
+     {
+      "type": "divider.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "To provide high quality and hygienically safe fruits and vegetables using advanced production techniques and a full quality management system."
+     },
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "9ef1ef7",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "image.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2021/02/12121-copy.jpg"
+      ]
+     },
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Our Vision"
+     },
+     {
+      "type": "spacer.default"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "To be the top agricultural food exporting company in Egypt and MENA, and to build trust with the international markets by providing the finest fruits and vegetables."
+     },
+     {
+      "type": "progress.default",
+      "text": "Product Purity Product Purity 98%"
+     },
+     {
+      "type": "progress.default",
+      "text": "Farmers Competence Farmers Competence 89%"
+     },
+     {
+      "type": "progress.default",
+      "text": "Equipment Equipment 90%"
+     },
+     {
+      "type": "progress.default",
+      "text": "Satisfied Customers Satisfied Customers 99%"
+     },
+     {
+      "type": "gt3-core-button.default",
+      "text": "Get in Touch",
+      "links": [
+       "https://agroegypt.com/contact-us/"
+      ]
+     },
+     {
+      "type": "spacer.default"
+     }
+    ]
+   }
+  ]
+ },
+ "1558": {
+  "slug": "agro-egypt-ghallab",
+  "link": "https://agroegypt.com/",
+  "parent": 0,
+  "head": {
+   "title": "Agro Egypt for agricultural products (Ghallab) - Citrus Export Company in Egypt",
+   "description": "Citrus Export Company in Egypt,citrus,Grapes,red onion,red galric,white onion,garlic,contact us,मिस्र में साइट्रस एक्सपोर्ट कंपनी, साइट्रस, अंगूर, लाल प्याज, लाल लहसुन, सफेद प्याज, लहसुन, हमसे संपर्क करें,埃及柑橘出口公司，柑橘，葡萄，红洋葱，红大蒜，白洋葱，大蒜，联系我们,Компания по экспорту цитрусовых в Египте,цитрусовые,виноград,красный лук,красный чеснок,белый лук,чеснок,свяжитесь с нами",
+   "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png",
+   "canonical": "https://agroegypt.com/"
+  },
+  "sections": [
+   {
+    "id": "4ea32c8",
+    "classes": "elementor-section elementor-top-section elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"stretch_section\":\"section-stretched\"}",
+    "widgets": [
+     {
+      "type": "gt3-core-revolutionslider.default",
+      "imgs": [
+       "//agroegypt.com/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+       "//agroegypt.com/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+       "//agroegypt.com/wp-content/plugins/revslider/public/assets/assets/dummy.png",
+       "//agroegypt.com/wp-content/plugins/revslider/public/assets/assets/dummy.png"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "6994c940",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "heading.default",
+      "text": "Agro Egypt - For Agricultureal Products Ghallab"
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Our Products"
+     },
+     {
+      "type": "image-box.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/Citrus.png"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/citrus",
+       "https://agroegypt.com/our-products/citrus"
+      ]
+     },
+     {
+      "type": "image-box.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/Pomegranate.png"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/pomegranate",
+       "https://agroegypt.com/our-products/pomegranate"
+      ]
+     },
+     {
+      "type": "image-box.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/Grapes.png"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/grapes",
+       "https://agroegypt.com/our-products/grapes"
+      ]
+     },
+     {
+      "type": "image-box.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/Mango.png"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/mango",
+       "https://agroegypt.com/our-products/mango"
+      ]
+     },
+     {
+      "type": "image-box.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/Onions.png"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/onions",
+       "https://agroegypt.com/our-products/onions"
+      ]
+     },
+     {
+      "type": "image-box.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/Fresh-Garlic.png"
+      ],
+      "links": [
+       "https://agroegypt.com/our-products/fresh-garlic",
+       "https://agroegypt.com/our-products/fresh-garlic"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "9c33084",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "heading.default",
+      "text": "Agro Egypt Ghallab is one of the top leading companies we offer The best fruits and vegetables over the world , Agro Egypt - For Agricultureal Products Ghallab"
+     },
+     {
+      "type": "gt3-core-emptyspace.default"
+     }
+    ]
+   },
+   {
+    "id": "6be2bef0",
+    "classes": "elementor-section elementor-top-section animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\",\"animation\":\"none\"}",
+    "widgets": [
+     {
+      "type": "animated-headline.default"
+     },
+     {
+      "type": "image-box.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/Quality.png"
+      ],
+      "links": [
+       "#",
+       "#"
+      ]
+     },
+     {
+      "type": "image-box.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/Effectiveness.png"
+      ],
+      "links": [
+       "#",
+       "#"
+      ]
+     },
+     {
+      "type": "image-box.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/Selection.png"
+      ],
+      "links": [
+       "#",
+       "#"
+      ]
+     },
+     {
+      "type": "image-box.default",
+      "imgs": [
+       "https://agroegypt.com/wp-content/uploads/2020/10/Reliability.png"
+      ],
+      "links": [
+       "#",
+       "#"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "76ff983",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "148db58",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "d1f92fd",
+    "classes": "elementor-section elementor-top-section elementor-section-full_width elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "heading.default",
+      "text": "CERTIFICATS",
+      "links": [
+       "https://agroegypt.com/about-us/"
+      ]
+     },
+     {
+      "type": "media-carousel.default"
+     }
+    ]
+   },
+   {
+    "id": "613d06e",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "{\"background_background\":\"classic\"}",
+    "widgets": [
+     {
+      "type": "heading.default",
+      "text": "Agro Egypt Ghallab is one of the top leading companies we offer The best fruits and vegetables over the world we are currently exporting with 41000 tons p/s special for you dont miss out."
+     },
+     {
+      "type": "text-editor.default",
+      "text": "Download our Catalogue"
+     },
+     {
+      "type": "gt3-core-button.default",
+      "text": "Download",
+      "links": [
+       "https://agroegypt.com/wp-content/uploads/2020/09/AGROEGYPT.pdf"
+      ]
+     },
+     {
+      "type": "spacer.default"
+     }
+    ]
+   },
+   {
+    "id": "3ccb02d",
+    "classes": "elementor-section elementor-top-section elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+    "settings": "",
+    "widgets": [
+     {
+      "type": "heading.default",
+      "text": "Agro Egypt is an Egyptian agricultural food exporting company experienced in providing high quality and hygienically safe fruits and vegetables to the international markets. The company holds both BRC"
+     },
+     {
+      "type": "heading.default",
+      "text": "safe time with us to get best QUALITY all the time.We have been present in the local and international market in the past 45 years handling exports of fresh fruits and vegetables.we achieved the highe"
+     }
+    ]
+   }
+  ]
+ }
+}

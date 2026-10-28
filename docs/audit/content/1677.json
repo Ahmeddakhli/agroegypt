@@ -1,0 +1,435 @@
+{
+ "id": 1677,
+ "slug": "baladi",
+ "url": "https://agroegypt.com/our-products/citrus/orange/baladi/",
+ "parent": 1654,
+ "menu_order": 0,
+ "wp_title": "Baladi",
+ "head": {
+  "title": "Baladi - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "Baladi Oranges Are small to medium sized seedy fruits with the same taste as Valencia oranges, they are easy to squeeze, deep orange in color and full of juice.",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Baladi",
+ "breadcrumbs": [
+  "Home",
+  "Our Products",
+  "Citrus",
+  "Oranges",
+  "Baladi"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/01/image-6-copy.jpg"
+ ],
+ "sections": [
+  {
+   "id": "53db7a61",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-53db7a61",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "4d118a9c",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-4d118a9c",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  },
+  {
+   "id": "36630f7a",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-36630f7a",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "7b0d3964",
+     "text": "Baladi Are small to medium sized seedy fruits with the same taste as Valencia oranges, they are easy to squeeze, deep orange in color and full of juice.",
+     "html": "<h3><span><b>Baladi</b></span><span style=\"color: #eaa84e; font-size: 20px; font-weight: 400;\"><br/></span></h3><h3><span style=\"font-size: 18px; font-weight: 400;\"><span>Are small to medium sized seedy fruits with the same taste as Valencia oranges, they are easy to squeeze, deep orange in color and full of juice.<br/></span></span></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "7748e954",
+     "text": "Packaging",
+     "html": "<h3>Packaging</h3>"
+    },
+    {
+     "type": "image",
+     "id": "1475a2cd",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-03.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "15a77862",
+     "text": "Open Top Carton (Net Weight 15 Kgs)",
+     "html": "<p style=\"text-align: center;\"><strong> <span><b>Open Top Carton (Net Weight 15 Kgs)</b><br/></span></strong></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "1b7dca67",
+     "text": "No. of Pallets/Container",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Pallets/Container</span></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "1aa64fb2",
+     "text": "No. of Cartons/Pallet",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Cartons/Pallet</span></p>"
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "36619c67",
+     "text": "20",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02.png",
+       "alt": "20",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "26871370",
+     "text": "65",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04.png",
+       "alt": "65",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "3b9f645a",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-01.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "4239be5c",
+     "text": "Telescopic Carton (Net Weight 15 Kgs).",
+     "html": "<p style=\"text-align: center;\"><strong> <span>Telescopic Carton (Net Weight 15 Kgs).</span></strong></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "735072d8",
+     "text": "No. of Pallets/Container",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Pallets/Container</span></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "424df515",
+     "text": "No. of Cartons/Pallet",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\">No. of Cartons/Pallet</span></p>"
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "669c1635",
+     "text": "20",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-02.png",
+       "alt": "20",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "gt3-core-info-list",
+     "id": "4461cf3",
+     "text": "80",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/opened-packaged-04.png",
+       "alt": "80",
+       "w": "60",
+       "h": "59"
+      }
+     ]
+    },
+    {
+     "type": "image",
+     "id": "9821ea4",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-07-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "150",
+       "h": "150"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "08bb1ff",
+     "text": "Bins 600 Kgs",
+     "html": "<p style=\"text-align: center;\"><strong> <span> <b>Bins 600 Kgs</b><br/></span></strong></p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "9ef9866",
+     "text": "No. Bins / Container 40",
+     "html": "<p style=\"text-align: center;\"><span class=\"gt3_font-weight\" style=\"font-weight: 100; font-size: 14px; text-align: center;\"> <span>No. Bins / Container 40<br/></span></span></p>"
+    },
+    {
+     "type": "image",
+     "id": "8ef5180",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/elementor/thumbs/opened-packaged-02-qsd05zcpq2929o2o5oqh5k7nbotfu2xadhj2nas5tg.png",
+       "alt": "opened-packaged-02",
+       "w": "50",
+       "h": "50"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "60b5f977",
+     "text": "Seasonality",
+     "html": "<h3>Seasonality</h3>"
+    },
+    {
+     "type": "image",
+     "id": "9f881b1",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/01/o3.jpg",
+       "alt": "Baladi Oranges Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "400",
+       "h": "400"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1a988fca",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-1a988fca",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "758a205f",
+     "text": "Baladi",
+     "html": "<h3><strong><span style=\"color: #eaa84e;\"><span> <b>Baladi</b><br/></span></span></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "44f27ec",
+     "text": "DEC",
+     "html": "<p style=\"text-align: center;\">DEC</p>"
+    },
+    {
+     "type": "image",
+     "id": "4f8d8027",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "4abb52c1",
+     "text": "JAN",
+     "html": "<p style=\"text-align: center;\">JAN</p>"
+    },
+    {
+     "type": "image",
+     "id": "541a28e1",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/12/product2-Recovered-01-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "50",
+       "h": "46"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "221ace05",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-221ace05",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "text-editor",
+     "id": "2bc56e0c",
+     "text": "Counts",
+     "html": "<h3><strong>Counts<br/></strong></h3>"
+    },
+    {
+     "type": "text-editor",
+     "id": "a44f496",
+     "text": "56",
+     "html": "<p style=\"text-align: center; color: #182719;\">56</p>"
+    },
+    {
+     "type": "icon",
+     "id": "1be6f50",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "8557888",
+     "text": "64",
+     "html": "<p style=\"text-align: center; color: #182719;\">64</p>"
+    },
+    {
+     "type": "icon",
+     "id": "579740ce",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "61a7def8",
+     "text": "72",
+     "html": "<p style=\"text-align: center; color: #182719;\">72</p>"
+    },
+    {
+     "type": "icon",
+     "id": "2f5b2694",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "226afb0f",
+     "text": "80",
+     "html": "<p style=\"text-align: center; color: #182719;\">80</p>"
+    },
+    {
+     "type": "icon",
+     "id": "7df83ce1",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "11553724",
+     "text": "88",
+     "html": "<p style=\"text-align: center; color: #182719;\">88</p>"
+    },
+    {
+     "type": "icon",
+     "id": "26586114",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "3735be10",
+     "text": "100",
+     "html": "<p style=\"text-align: center; color: #182719;\">100</p>"
+    },
+    {
+     "type": "icon",
+     "id": "3c6f7322",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "7ef5e885",
+     "text": "113",
+     "html": "<p style=\"text-align: center; color: #182719;\">113</p>"
+    },
+    {
+     "type": "icon",
+     "id": "361e90f6",
+     "text": ""
+    },
+    {
+     "type": "text-editor",
+     "id": "0081444",
+     "text": "125",
+     "html": "<p style=\"text-align: center; color: #182719;\">125</p>"
+    },
+    {
+     "type": "icon",
+     "id": "8f3c71e",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": "15f800c9",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-15f800c9",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": []
+  }
+ ]
+}

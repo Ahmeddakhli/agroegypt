@@ -1,0 +1,462 @@
+{
+ "id": 1558,
+ "slug": "agro-egypt-ghallab",
+ "url": "https://agroegypt.com/",
+ "parent": 0,
+ "menu_order": 0,
+ "wp_title": "Home Of Big Citrus Export Company In Egypt :)",
+ "head": {
+  "title": "Agro Egypt for agricultural products (Ghallab) - Citrus Export Company in Egypt",
+  "description": "Citrus Export Company in Egypt,citrus,Grapes,red onion,red galric,white onion,garlic,contact us,मिस्र में साइट्रस एक्सपोर्ट कंपनी, साइट्रस, अंगूर, लाल प्याज, लाल लहसुन, सफेद प्याज, लहसुन, हमसे संपर्क करें,埃及柑橘出口公司，柑橘，葡萄，红洋葱，红大蒜，白洋葱，大蒜，联系我们,Компания по экспорту цитрусовых в Египте,цитрусовые,виноград,красный лук,красный чеснок,белый лук,чеснок,свяжитесь с нами",
+  "keywords": "grapes,pomegranate,mangos,onions,and fresh garlic harvested from our local farms that are located in the finest agricultural area in egypt,agro egypt one of the top leading companies in fruit and vegetable field in egyp,we are currently exporting to over 15 countries,with 41,000 tons p/s",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": null,
+ "breadcrumbs": [],
+ "page_title_bg": [],
+ "sections": [
+  {
+   "id": "4ea32c8",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-4ea32c8",
+    "elementor-section-stretched",
+    "elementor-section-full_width",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"stretch_section\":\"section-stretched\"}",
+   "widgets": [
+    {
+     "type": "gt3-core-revolutionslider",
+     "id": "655d1f3",
+     "text": "QUALITY EFFECTIVENESS RELIABILTY SELECTION"
+    }
+   ]
+  },
+  {
+   "id": "6994c940",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-6994c940",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": [
+    {
+     "type": "heading",
+     "id": "5549266",
+     "text": "Agro Egypt - For Agricultureal Products Ghallab"
+    },
+    {
+     "type": "text-editor",
+     "id": "4189458",
+     "text": "Our Products",
+     "html": "<h2 style=\"font-size: 48px; text-align: center;\">Our Products</h2>"
+    },
+    {
+     "type": "image-box",
+     "id": "4c34152b",
+     "text": "Citrus",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/Citrus.png",
+       "alt": "Agro Citrus Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "1067",
+       "h": "1067"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/citrus",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/our-products/citrus",
+       "text": "Citrus"
+      }
+     ]
+    },
+    {
+     "type": "image-box",
+     "id": "6f8471b6",
+     "text": "Pomegranate",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/Pomegranate.png",
+       "alt": "Agro Pomegranate Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "1068",
+       "h": "1067"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/pomegranate",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/our-products/pomegranate",
+       "text": "Pomegranate"
+      }
+     ]
+    },
+    {
+     "type": "image-box",
+     "id": "60ae071d",
+     "text": "Grapes",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/Grapes.png",
+       "alt": "Agro Grapes Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "1067",
+       "h": "1067"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/grapes",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/our-products/grapes",
+       "text": "Grapes"
+      }
+     ]
+    },
+    {
+     "type": "image-box",
+     "id": "031edc4",
+     "text": "Mango",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/Mango.png",
+       "alt": "Agro Mango Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "1067",
+       "h": "1068"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/mango",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/our-products/mango",
+       "text": "Mango"
+      }
+     ]
+    },
+    {
+     "type": "image-box",
+     "id": "7d606c62",
+     "text": "Onions",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/Onions.png",
+       "alt": "Agro Onions Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "1068",
+       "h": "1067"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/onions",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/our-products/onions",
+       "text": "Onions"
+      }
+     ]
+    },
+    {
+     "type": "image-box",
+     "id": "815c831",
+     "text": "Fresh Garlic",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/Fresh-Garlic.png",
+       "alt": "Agro Fresh Garlic Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "1067",
+       "h": "1068"
+      }
+     ],
+     "links": [
+      {
+       "href": "https://agroegypt.com/our-products/fresh-garlic",
+       "text": ""
+      },
+      {
+       "href": "https://agroegypt.com/our-products/fresh-garlic",
+       "text": "Fresh Garlic"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9c33084",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-9c33084",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "heading",
+     "id": "d643cea",
+     "text": "Agro Egypt Ghallab is one of the top leading companies we offer The best fruits and vegetables over the world , Agro Egypt - For Agricultureal Products Ghallab"
+    }
+   ]
+  },
+  {
+   "id": "6be2bef0",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-6be2bef0",
+    "animated-slow",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\",\"animation\":\"none\"}",
+   "widgets": [
+    {
+     "type": "animated-headline",
+     "id": "142a4c0",
+     "text": ""
+    },
+    {
+     "type": "image-box",
+     "id": "1f3a8d39",
+     "text": "Quality We assure you the highest quality of agricultural products in the market that complies with the food industry's international standards.",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/Quality.png",
+       "alt": "Agro Quality Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "1067",
+       "h": "1067"
+      }
+     ],
+     "links": [
+      {
+       "href": "#",
+       "text": ""
+      },
+      {
+       "href": "#",
+       "text": "Quality"
+      }
+     ],
+     "settings": "{\"_animation\":\"fadeIn\"}"
+    },
+    {
+     "type": "image-box",
+     "id": "2287f326",
+     "text": "Effectiveness Our products are well packed and quality controlled on the sorting, sizing and packing to maximize shelf-life.",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/Effectiveness.png",
+       "alt": "Agro Effectiveness Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "1067",
+       "h": "1067"
+      }
+     ],
+     "links": [
+      {
+       "href": "#",
+       "text": ""
+      },
+      {
+       "href": "#",
+       "text": "Effectiveness"
+      }
+     ],
+     "settings": "{\"_animation\":\"fadeIn\"}"
+    },
+    {
+     "type": "image-box",
+     "id": "38fd86e",
+     "text": "Selection Our local farms produce the finest fruits and vegetables.",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/Selection.png",
+       "alt": "Agro Selection Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "1067",
+       "h": "1067"
+      }
+     ],
+     "links": [
+      {
+       "href": "#",
+       "text": ""
+      },
+      {
+       "href": "#",
+       "text": "Selection"
+      }
+     ],
+     "settings": "{\"_animation\":\"fadeIn\"}"
+    },
+    {
+     "type": "image-box",
+     "id": "1b91c49",
+     "text": "Reliability We provide you with a quick and accurate worldwide shipping.",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2020/10/Reliability.png",
+       "alt": "Agro Reliability Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "1068",
+       "h": "1067"
+      }
+     ],
+     "links": [
+      {
+       "href": "#",
+       "text": ""
+      },
+      {
+       "href": "#",
+       "text": "Reliability"
+      }
+     ],
+     "settings": "{\"_animation\":\"fadeIn\"}"
+    }
+   ]
+  },
+  {
+   "id": "76ff983",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-76ff983",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": []
+  },
+  {
+   "id": "148db58",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-148db58",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": []
+  },
+  {
+   "id": "d1f92fd",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-d1f92fd",
+    "elementor-section-full_width",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": [
+    {
+     "type": "heading",
+     "id": "eb0c0d7",
+     "text": "CERTIFICATS",
+     "links": [
+      {
+       "href": "https://agroegypt.com/about-us/",
+       "text": "CERTIFICATS"
+      }
+     ]
+    },
+    {
+     "type": "media-carousel",
+     "id": "86c1b35",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": "613d06e",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-613d06e",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": [
+    {
+     "type": "heading",
+     "id": "b7b4c69",
+     "text": "Agro Egypt Ghallab is one of the top leading companies we offer The best fruits and vegetables over the world we are currently exporting with 41000 tons p/s special for you dont miss out."
+    },
+    {
+     "type": "text-editor",
+     "id": "fa05afa",
+     "text": "Download our Catalogue",
+     "html": "<h5 style=\"text-align: center; font-size: 48px;\"><span style=\"color: #ffffff;\">Download our Catalogue</span></h5>"
+    },
+    {
+     "type": "gt3-core-button",
+     "id": "bb7eb8d",
+     "text": "Download",
+     "links": [
+      {
+       "href": "https://agroegypt.com/wp-content/uploads/2020/09/AGROEGYPT.pdf",
+       "text": "Download"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3ccb02d",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-3ccb02d",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "heading",
+     "id": "36f9dc8",
+     "text": "Agro Egypt is an Egyptian agricultural food exporting company experienced in providing high quality and hygienically safe fruits and vegetables to the international markets. The company holds both BRC, ISO 22000:2005, ACERTA and GLOBALG.A.P certificates, which makes its products fully compatible with global food standards.We offer a wide range of fruits and vegetables like; citrus, grapes, pomegranate, mangos, onions, and fresh garlic harvested from our local farms that are located in the finest agricultural area in Egypt. Agro Egypt is currently exporting to over 15 countries, with exports of 41,000 tons per season."
+    },
+    {
+     "type": "heading",
+     "id": "4efa50a",
+     "text": "safe time with us to get best QUALITY all the time.We have been present in the local and international market in the past 45 years handling exports of fresh fruits and vegetables.we achieved the highest standards of customer satisfaction and reliability by exporting the finest agricultural food to provide the world with a good taste of Egypt directly from its local farms at competitive prices.I am not fond of fruit. However,Above all, most importantly, I do like that.In conclusion, we like to working with you ."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "id": 636,
+ "slug": "contact-us",
+ "url": "https://agroegypt.com/contact-us/",
+ "parent": 0,
+ "menu_order": 0,
+ "wp_title": "Contact us",
+ "head": {
+  "title": "Contact us - Agro Egypt for agricultural products (Ghallab) Citrus Export Company in Egypt",
+  "description": "Clarification In Agro Egypt ( Ghallab ) We aim to reach you anytime & everywhere. For any inquiries please contact us via Email or Phone Call.save yout time .",
+  "keywords": "",
+  "og_image": "https://agroegypt.com/wp-content/uploads/2021/02/logo-agro.png"
+ },
+ "page_title": "Contact us",
+ "breadcrumbs": [
+  "Home",
+  "Contact us"
+ ],
+ "page_title_bg": [
+  "https://agroegypt.com/wp-content/uploads/2021/02/contact1.png"
+ ],
+ "sections": [
+  {
+   "id": "4042a5c",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-4042a5c",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "image",
+     "id": "56bf396",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/02/lemon-10-1.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "300",
+       "h": "300"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "ebf613b",
+     "text": "CPC Industrial Park – Plot no (2-3) , 6th October City, Egypt.",
+     "html": "<p style=\"text-align: center; font-family: Heebo; font-size: 16px; font-weight: 400;\">CPC Industrial Park – Plot no (2-3) , 6th October City, Egypt.</p>"
+    },
+    {
+     "type": "image",
+     "id": "6581d39",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/02/lemon-11-1.png",
+       "alt": "phone contact Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "300",
+       "h": "300"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "4ec8560",
+     "text": "(+202) 38642048",
+     "html": "<p style=\"text-align: center; font-family: Heebo; font-size: 16px; font-weight: 400;\">(+202) 38642048</p>"
+    },
+    {
+     "type": "image",
+     "id": "2abc676",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/02/lemon-12.png",
+       "alt": "FAX Contact Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "300",
+       "h": "300"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "0d49668",
+     "text": "(+202) 38642049",
+     "html": "<p style=\"text-align: center; font-family: Heebo; font-size: 16px; font-weight: 400;\">(+202) 38642049</p>"
+    },
+    {
+     "type": "image",
+     "id": "4e6e619",
+     "text": "",
+     "images": [
+      {
+       "src": "https://agroegypt.com/wp-content/uploads/2021/02/lemon-09.png",
+       "alt": "Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company Agro Egypt for agricultural products Ghallab Citrus Export Company in Egypt Citrus Export Company",
+       "w": "300",
+       "h": "300"
+      }
+     ]
+    },
+    {
+     "type": "text-editor",
+     "id": "e3dba8c",
+     "text": "info@agroegypt.com",
+     "html": "<p style=\"text-align: center; font-family: Heebo; font-size: 16px; font-weight: 400;\">info@agroegypt.com</p>"
+    }
+   ]
+  },
+  {
+   "id": "840a467",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-840a467",
+    "elementor-section-boxed",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "{\"background_background\":\"classic\"}",
+   "widgets": [
+    {
+     "type": "heading",
+     "id": "ade17d5",
+     "text": "Get in touch"
+    },
+    {
+     "type": "text-editor",
+     "id": "5ba867c",
+     "text": "Want to know more information about our tasty fruits and vegetables? Leave your contact info and message below and one of our customer support team will contact you shortly.",
+     "html": "<p>Want to know more information about our tasty fruits and vegetables? Leave your contact info and message below and one of our customer support team will contact you shortly.</p>"
+    },
+    {
+     "type": "text-editor",
+     "id": "b744077",
+     "text": "",
+     "html": "<div class=\"wpcf7 no-js\" data-wpcf7-id=\"644\" dir=\"ltr\" id=\"wpcf7-f644-p636-o1\" lang=\"en-US\"><div class=\"screen-reader-response\"><p aria-atomic=\"true\" aria-live=\"polite\" role=\"status\"></p><ul></ul></div><form action=\"/contact-us/#wpcf7-f644-p636-o1\" aria-label=\"Contact form\" class=\"wpcf7-form init\" data-status=\"init\" method=\"post\" novalidate=\"novalidate\"><fieldset class=\"hidden-fields-container\"><input name=\"_wpcf7\" type=\"hidden\" value=\"644\"/><input name=\"_wpcf7_version\" type=\"hidden\" value=\"6.1.7\"/><input name=\"_wpcf7_locale\" type=\"hidden\" value=\"en_US\"/><input name=\"_wpcf7_unit_tag\" type=\"hidden\" value=\"wpcf7-f644-p636-o1\"/><input name=\"_wpcf7_container_post\" type=\"hidden\" value=\"636\"/><input name=\"_wpcf7_posted_data_hash\" type=\"hidden\" value=\"\"/><input name=\"_wpcf7_recaptcha_response\" type=\"hidden\" value=\"\"/></fieldset><div class=\"row contacts_form\"><div class=\"span6\"><p><span class=\"wpcf7-form-control-wrap\" data-name=\"Name\"><input aria-invalid=\"false\" aria-required=\"true\" class=\"wpcf7-form-control wpcf7-text wpcf7-validates-as-required\" maxlength=\"400\" name=\"Name\" placeholder=\"Name *\" size=\"40\" type=\"text\" value=\"\"/></span></p></div><div class=\"span6\"><p><span class=\"wpcf7-form-control-wrap\" data-name=\"your-email\"><input aria-invalid=\"false\" aria-required=\"true\" class=\"wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email\" maxlength=\"400\" name=\"your-email\" placeholder=\"E-Mail *\" size=\"40\" type=\"email\" value=\"\"/></span></p></div><div class=\"span12\"><p><span class=\"wpcf7-form-control-wrap\" data-name=\"your-message\"><textarea aria-invalid=\"false\" class=\"wpcf7-form-control wpcf7-textarea\" cols=\"40\" maxlength=\"2000\" name=\"your-message\" placeholder=\"Message\" rows=\"10\"></textarea></span>\n<span class=\"wpcf7-form-control-wrap recaptcha\" data-name=\"recaptcha\"><span class=\"wpcf7-form-control wpcf7-recaptcha g-recaptcha\" data-sitekey=\"6Lf9cmkaAAAAAIG7_MNQjOioMLz1nJiIDP7Y-0Wl\" data-theme=\"dark\"></span>\n<noscript><div class=\"grecaptcha-noscript\">\n<iframe frameborder=\"0\" height=\"430\" scrolling=\"no\" src=\"https://www.google.com/recaptcha/api/fallback?k=6Lf9cmkaAAAAAIG7_MNQjOioMLz1nJiIDP7Y-0Wl\" width=\"310\">\n</iframe><textarea cols=\"40\" name=\"g-recaptcha-response\" placeholder=\"reCaptcha Response Here\" rows=\"3\">\n\t\t</textarea></div>\n</noscript>\n</span><input class=\"wpcf7-form-control wpcf7-submit has-spinner\" type=\"submit\" value=\"Send Message\"/></p></div></div><div aria-hidden=\"true\" class=\"wpcf7-response-output\"></div></form></div>"
+    }
+   ]
+  },
+  {
+   "id": "c711334",
+   "classes": [
+    "elementor-section",
+    "elementor-top-section",
+    "elementor-element",
+    "elementor-element-c711334",
+    "elementor-section-full_width",
+    "elementor-section-height-default",
+    "elementor-section-height-default"
+   ],
+   "settings": "",
+   "widgets": [
+    {
+     "type": "html",
+     "id": "08a5e1b",
+     "text": "",
+     "html": "<iframe allowfullscreen=\"\" aria-hidden=\"false\" data-lazyloaded=\"1\" data-litespeed-src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1728.50566025949!2d30.8781868!3d29.950353!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1458ff4f4b9b2ce7%3A0xdab949540576c2f!2sAGRO%20EGYPT!5e0!3m2!1sen!2seg!4v1599025032477!5m2!1sen!2seg\" frameborder=\"0\" height=\"450\" src=\"about:blank\" style=\"border:0;\" tabindex=\"0\" width=\"600\"></iframe>"
+    }
+   ]
+  }
+ ]
+}
